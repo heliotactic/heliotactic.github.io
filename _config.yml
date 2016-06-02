@@ -1,0 +1,28 @@
+# Heliotactic 
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Heliotactic
+email: solarpower@psu.edu
+description: 
+  "Solar photovoltaics (PV) are the bellwether for the broad solar field, 
+  growing at an alarming rate internationally. This surge is transforming energy 
+  landscapes, both figurative and literal. The exponential, contagious surge of 
+  PV systems internationally is enabling innovation in solar, in tandem with 
+  historical reflection on the deep influence of solar conversion on our 
+  supporting ecosystems. We argue that solar energy must be addressed as a 
+  transformative, transdisciplinary framework for research and adaptive design: 
+  solar ecology. There are rich opportunities within the food-energy-water nexus, 
+  motivated by the need to understand our local regimes and pose sustainable 
+  adaption planning given a climate changed by 2100."
+baseurl: "" # the subpath of your site, e.g. /Heliotactic/
+url: "http://nanomech.ems.psu.edu/" # the base hostname & protocol for your site
+twitter_username: Heliotactic
+github_username:  Heliotactic
+tagline: "Following sunlight, and adaptation strategies that embrace solar energy 
+    conversion"
+
+# Build settings
+markdown: kramdown
