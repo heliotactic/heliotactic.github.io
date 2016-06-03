@@ -1,28 +1,75 @@
-# Heliotactic 
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Site wide configuration
 
-# Site settings
 title: Heliotactic
-email: solarpower@psu.edu
-description: 
-  "Solar photovoltaics (PV) are the bellwether for the broad solar field, 
-  growing at an alarming rate internationally. This surge is transforming energy 
-  landscapes, both figurative and literal. The exponential, contagious surge of 
-  PV systems internationally is enabling innovation in solar, in tandem with 
-  historical reflection on the deep influence of solar conversion on our 
-  supporting ecosystems. We argue that solar energy must be addressed as a 
+locale: en_US
+description:  "Solar energy must be addressed as a 
   transformative, transdisciplinary framework for research and adaptive design: 
-  solar ecology. There are rich opportunities within the food-energy-water nexus, 
+  *solar ecology*. There are rich opportunities within the food-energy-water nexus, 
   motivated by the need to understand our local regimes and pose sustainable 
   adaption planning given a climate changed by 2100."
-baseurl: "" # the subpath of your site, e.g. /Heliotactic/
-url: "http://nanomech.ems.psu.edu/" # the base hostname & protocol for your site
-twitter_username: Heliotactic
-github_username:  Heliotactic
-tagline: "Following sunlight, and adaptation strategies that embrace solar energy 
-    conversion"
+logo: eitplume_SOHO_Sun_mod.png
+search: true
+url: http://localhost:4000
 
-# Build settings
-markdown: kramdown
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Jeffrey R. S. Brownson
+  avatar: Brownson.jpg
+  email: solarpower@psu.edu
+  #disqus-shortname:
+  twitter: #Heliotactic
+#  facebook: #username
+  github: #Heliotactic
+  # stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: nanomech
+  instagram: Heliotactic
+  # flickr: #username
+  # tumblr: #username
+  # pinterest: #username
+  # weibo: #userid
+  google:
+    plus: nanomech
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  # bing-verify:
