@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-excerpt: "An archive of blog posts sorted by date."
+excerpt: "Helio-Tactics and blog posts"
 search_omit: true
 ---
 

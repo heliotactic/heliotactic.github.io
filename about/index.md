@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: Heliotactic is Jeffrey R. S. Brownson
+excerpt: "Dr. Brownson’s research is focused on solar resource assessment/economics, photovoltaic materials, and systems performance for photovoltaics and buildings. He has participated in the DoE SunShot Initiative for Solar Forecasting, the DoE Energy Efficient Buildings Hub in PA, and served as faculty lead in the 2009 Solar Decathlon. Brownson is a member of the Board of Directors for ASES, advocating the critical importance of our young professionals in the health and future of the solar industry."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-1.jpg
@@ -9,18 +9,9 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Dr. Brownson has worked to develop a new school of thought in solar energy called Solar Ecology. 
 
-## So Simple Theme is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+## Solar Ecology is about:
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+For over 10,000 years, the story of solar has been the story of society. We argue that solar energy must be addressed as a transformative, transdisciplinary framework for nexus research and adaptive design: solar ecology; with rich opportunities motivated by the need to understand our local regimes and pose sustainable adaption planning given a climate changed by 2100. We present the solar ecology framework for research and design at the interface of ecosystems and society. 
