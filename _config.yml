@@ -66,8 +66,8 @@ owner:
   # tumblr: #username
   # pinterest: #username
   # weibo: #userid
-  google: nanomech
-    plus: 
+  google: 
+    plus: nanomech
     analytics:
     verify:
     ad-client:
