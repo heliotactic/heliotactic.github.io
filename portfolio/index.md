@@ -3,10 +3,10 @@ layout: page
 title: Solar Ecology Portfolio
 excerpt: "What is happening in the world of Solar Ecology."
 modified: 2016-06-09
-image:
-  feature: so-simple-sample-image-6.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+#image:
+#  feature: so-simple-sample-image-6.jpg
+#  credit: WeGraphics
+#  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-#pack/
 ---
 
 General notes and suggestions for customizing **So Simple Theme**.
