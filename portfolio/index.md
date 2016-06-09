@@ -20,6 +20,10 @@ We are working on a new space called [Community Solar](http://www.communitysolar
 
 Penn State has developed a strong community interest and passion for solar energy research and development. The students, staff, and faculty, and our surrounding community deserve a path to enable the low-carbon future to grow photovoltaic (PV) installations in the framework of the Living Laboratory. We also wish to create an outreach and educational platform that will allow our community to proceed with a pilot community PV project, called a “solar garden”, retain the best practices learned, and then move forward with enabling prospective solar projects as they evolve in the future. 
 
+## Solar ASE: the All-Seeing Eye
+
+
+
 ## Jekyll 
 
 If you are creating a new Jekyll site using So Simple follow these steps:
