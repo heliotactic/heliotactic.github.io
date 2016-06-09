@@ -32,5 +32,5 @@ Exception: for some algorithms, we will use an alternate convention for orientat
 
 ## Supplemental Text
 
-*Let it Shine: 6000 Years of Solar Energy*, by John Perlin
+[Let it Shine: 6000 Years of Solar Energy](http://john-perlin.com/), by John Perlin
     Solar energy context and history. This is not a text of calculations, and describes solar developments over the millenia. One of my new favorite solar texts that was revised and added to from the out of print text by Butti and Perlin, A Golden Thread: 2500 Years of Solar Architecture and Technology. 
