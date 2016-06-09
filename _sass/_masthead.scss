@@ -27,14 +27,14 @@
 /*
    Site logo
    ========================================================================== */
-$yellowLight:  #fdfc8f
+
 .site-logo {
   img {
     width: 200px;
     height: 200px;
     @include animation-duration(1s);
       @include animation-delay(.05s);
-      border: 6px solid $yellowLight;
+      border: 6px solid #fdfc8f;
       @include rounded(200px); /* crops in a circle */
     @include media($medium) {
       width: 250px;
