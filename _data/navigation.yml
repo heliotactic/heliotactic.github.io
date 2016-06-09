@@ -9,8 +9,11 @@
 - title: Blog
   url: /blog/
 
-- title: Solar Ecology Portfolio
+- title: Solar Ecology
   url: /portfolio/
+
+- title: Textbook
+  url: /secs/ 
 
 - title: Search
   url: /search/
