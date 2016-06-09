@@ -34,7 +34,7 @@
     height: 200px;
     @include animation-duration(1s);
       @include animation-delay(.05s);
-      border: 6px solid #fdfc8f;
+      border: 6px solid #FFB448;
       @include rounded(200px); /* crops in a circle */
     @include media($medium) {
       width: 250px;
