@@ -30,21 +30,21 @@
 
 .site-logo {
   img {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     @include animation-duration(1s);
       @include animation-delay(.05s);
       border: 6px solid $white;
-      @include rounded(180px); /* crops in a circle */
+      @include rounded(200px); /* crops in a circle */
     @include media($medium) {
-      width: 200px;
-      height: 200px;
-      @include rounded(100px); /* crops in a circle */
-    }
-    @include media($large) {
       width: 250px;
       height: 250px;
-      @include rounded(100px); /* crops in a circle */
+      @include rounded(250px); /* crops in a circle */
+    }
+    @include media($large) {
+      width: 300px;
+      height: 300px;
+      @include rounded(300px); /* crops in a circle */
     }
   }
 }
