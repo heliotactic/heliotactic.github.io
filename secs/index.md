@@ -4,7 +4,7 @@ title: "Solar Energy Conversion Systems", JRS Brownson
 excerpt: "Textbook for multidisciplinary solar education"
 modified: 2016-06-09T19:44:38.564948-04:00
 image:
-  feature: intro-b.png
+  feature: so-simple-sample-image-1.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
