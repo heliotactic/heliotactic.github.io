@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-excerpt: "Helio-Tactics and blog posts"
+title: Commentary
+excerpt: "Helio-Tactics, solar tracking, and seeds of blog posts"
 search_omit: true
 ---
 

@@ -1,18 +1,18 @@
 # Site navigation links
 
-- title: About
+- title: Brownson Research
   url: /about/
 
 - title: Articles
   url: /articles/
 
-- title: Blog
+- title: Commentary
   url: /blog/
 
 - title: Solar Ecology
   url: /portfolio/
 
-- title: Textbook
+- title: SECS Book
   url: /secs/ 
 
 - title: Search

@@ -1,12 +1,8 @@
 # Site wide configuration
 
-title: Heliotactic
+title: Heliotactic Press
 locale: en_US
-description:  "Solar energy must be addressed as a 
-  transformative, transdisciplinary framework for research and adaptive design: 
-  solar ecology. There are rich opportunities within the food-energy-water nexus, 
-  motivated by the need to understand our local regimes and pose sustainable 
-  adaption planning given a climate changed by 2100."
+description:  "Tracking solar energy across the globe--developing tactics for solar research, education, and engagement. Your home for solar systems thinking."
 logo: eitplume_SOHO_Sun_mod.png
 search: true
 url: http://heliotactic.github.io

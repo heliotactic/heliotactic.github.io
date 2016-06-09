@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SECS
-excerpt: "Solar Energy Conversion Systems."
+title: Solar Energy Conversion Systems
+excerpt: "Textbook for multidisciplinary solar education"
 modified: 2016-06-09T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-1.jpg
@@ -9,12 +9,12 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-# Solar Energy Conversion Systems (Elsevier, Academic Press), 2013 by J. R. S. Brownson
+# Author: J. R. S. Brownson. Elsevier, Academic Press, (2013) 
 
 
 ## Summary
 
-Examines solar energy conversion as an integrative design process, applying systems thinking methods to a solid knowledge base for creators of solar energy systems. This approach permits different levels of access for the emerging broad audience of scientists, engineers, architects, planners, and economists. Solar Energy Conversion Systems approaches the field from the perspectives of integrative design, environmental technology, sustainability science, and materials science. This is a new solar text for the new generation of green job designers and developers. The textbook is highlighted with vignettes that break down solar conversion into useful stories and providing common points of reference, as well as techniques for effective estimation of evolving technologies.
+We examine solar energy conversion as an integrative design process, applying systems thinking methods to a solid knowledge base for creators of solar energy systems. This approach permits different levels of access for the emerging broad audience of scientists, engineers, architects, planners, and economists. Solar Energy Conversion Systems approaches the field from the perspectives of integrative design, environmental technology, sustainability science, and materials science. This is a new solar text for the new generation of green job designers and developers. The textbook is highlighted with vignettes that break down solar conversion into useful stories and providing common points of reference, as well as techniques for effective estimation of evolving technologies.
 
 ## Coding Supplements for Students and Educators
 
