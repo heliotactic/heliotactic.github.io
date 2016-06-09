@@ -42,9 +42,9 @@
       @include rounded(230px); /* crops in a circle */
     }
     @include media($large) {
-      width: 230px;
-      height: 230px;
-      @include rounded(250px); /* crops in a circle */
+      width: 250px;
+      height: 250px;
+      @include rounded(200px); /* crops in a circle */
     }
   }
 }
