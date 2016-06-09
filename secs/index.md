@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Solar Energy Conversion Systems", JRS Brownson
+title: Solar Energy Conversion Systems, by JRS Brownson
 excerpt: "Textbook for multidisciplinary solar education"
 modified: 2016-06-09T19:44:38.564948-04:00
 image:
