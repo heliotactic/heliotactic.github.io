@@ -35,16 +35,16 @@
     @include animation-duration(1s);
       @include animation-delay(.05s);
       border: 6px solid $white;
-      @include rounded(100px); /* crops in a circle */
+      @include rounded(120px); /* crops in a circle */
     @include media($medium) {
       width: 200px;
       height: 200px;
-      @include rounded(150px); /* crops in a circle */
+      @include rounded(170px); /* crops in a circle */
     }
     @include media($large) {
       width: 250px;
       height: 250px;
-      @include rounded(200px); /* crops in a circle */
+      @include rounded(230px); /* crops in a circle */
     }
   }
 }
