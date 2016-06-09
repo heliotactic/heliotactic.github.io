@@ -5,8 +5,8 @@ excerpt: "Dr. Brownson’s research is focused on solar resource assessment/econ
 modified: 2016-06-06T19:44:38.564948-04:00
 image:
   feature: NorthPorch_SC_2016.png
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  credit: JRS Brownson
+  #creditlink: 
 ---
 
 Dr. Brownson has worked to develop a new school of thought in solar energy called Solar Ecology. 
