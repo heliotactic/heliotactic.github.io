@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Theme Setup
-excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
-modified: 2016-01-19
+title: Solar Ecology Portfolio
+excerpt: "What is happening in the world of Solar Ecology."
+modified: 2016-06-09
 image:
   feature: so-simple-sample-image-6.jpg
   credit: WeGraphics
