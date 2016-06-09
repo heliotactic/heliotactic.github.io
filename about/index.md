@@ -2,7 +2,7 @@
 layout: page
 title: Jeffrey R. S. Brownson
 excerpt: "Dr. Brownson’s research is focused on solar resource assessment/economics, photovoltaic materials, and systems performance for photovoltaics and buildings. He has participated in the DoE SunShot Initiative for Solar Forecasting, the DoE Energy Efficient Buildings Hub in PA, and served as faculty lead in the 2009 Solar Decathlon. Brownson is a member of the Board of Directors for ASES, advocating the critical importance of our young professionals in the health and future of the solar industry."
-modified: 2014-08-08T19:44:38.564948-04:00
+modified: 2016-06-06T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-1.jpg
   credit: WeGraphics
