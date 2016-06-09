@@ -3,7 +3,7 @@
 title: Heliotactic Press
 locale: en_US
 description:  "Tracking solar energy across the globe--developing tactics for solar research, education, and engagement. Your home for solar systems thinking."
-logo: Sunpath_41_N.png # eitplume_SOHO_Sun_mod.png
+logo:  eitplume_SOHO_Sun_mod.png # Sunpath_41_N.png #
 search: true
 url: http://heliotactic.github.io
 
