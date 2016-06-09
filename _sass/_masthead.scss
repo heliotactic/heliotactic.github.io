@@ -39,12 +39,12 @@
     @include media($medium) {
       width: 200px;
       height: 200px;
-      @include rounded(230px); /* crops in a circle */
+      @include rounded(100px); /* crops in a circle */
     }
     @include media($large) {
       width: 250px;
       height: 250px;
-      @include rounded(200px); /* crops in a circle */
+      @include rounded(100px); /* crops in a circle */
     }
   }
 }
