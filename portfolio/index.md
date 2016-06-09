@@ -9,14 +9,18 @@ modified: 2016-06-09
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-#pack/
 ---
 
-General notes and suggestions for customizing **So Simple Theme**.
+Because solar energy is photovoltaics, and so much more...
 
 * Table of Contents
 {:toc}
 
-## Installation
+## Community Solar
 
-So Simple now requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version to update all gem dependencies.
+We are working on a new space called [Community Solar](http://www.communitysolar.psu.edu/), addressing the new trends for differentiated models of shared solar deployment. This space is based on the work of [Community Solar on State](http://sustainability.psu.edu/reinvention/community-solar-on-state): a Living Laboratory Framework for Outreach, Education, and Research-- funded by the Reinvention Fund of [Penn State's Sustainability Institute](http://sustainability.psu.edu/).
+
+Penn State has developed a strong community interest and passion for solar energy research and development. The students, staff, and faculty, and our surrounding community deserve a path to enable the low-carbon future to grow photovoltaic (PV) installations in the framework of the Living Laboratory. We also wish to create an outreach and educational platform that will allow our community to proceed with a pilot community PV project, called a “solar garden”, retain the best practices learned, and then move forward with enabling prospective solar projects as they evolve in the future. 
+
+## Jekyll 
 
 If you are creating a new Jekyll site using So Simple follow these steps:
 
@@ -33,9 +37,6 @@ If you want to use So Simple with an existing Jekyll site follow these steps:
 4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
 5. Update posts' and pages' YAML to match variables used by So Simple. Full details below.
 6. Update `_config.yml` and add navigation links and additional author data if applicable. Full details below. 
-
-**Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
-{: .notice}
 
 ---
 

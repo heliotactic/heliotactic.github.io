@@ -12,7 +12,7 @@ image:
 # Author
 Jeffrey R. S. Brownson, Associate Professor of Energy & Mineral Engineering and Materials Science & Engineering; Solar Option Lead: iMPS Renewable Energy & Sustainability Systems, The Pennsylvania State University 
 
-## [Elsevier, Academic Press, (2013)](https://www.elsevier.com/books/solar-energy-conversion-systems/brownson/978-0-12-397021-3)
+## [Elsevier: Academic Press (2013)](https://www.elsevier.com/books/solar-energy-conversion-systems/brownson/978-0-12-397021-3)
 
 ### Summary
 
