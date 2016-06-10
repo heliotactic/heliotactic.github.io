@@ -3,6 +3,9 @@ layout: page
 title: Commentary
 excerpt: "Helio-Tactics, solar tracking, and seeds of blog posts"
 search_omit: true
+  feature: Family_chucks_2015.png
+  credit: JRS Brownson
+  #creditlink: 
 ---
 
 <ul class="post-list">
