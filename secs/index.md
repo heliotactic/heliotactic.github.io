@@ -15,8 +15,9 @@ image:
 ## Author
 
 **Jeffrey R. S. Brownson (PhD)**
+
 | Director, Solar Ecology program, EMS Energy Institute                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------|
 | Co-Director: 2iE-PSU Centre for Collaborative Engagement                                                                             |
 | [Solar Option Lead: iMPS in Renewable Energy & Sustainability Systems](https://www.ress.psu.edu/solar_energy)                        |
 | [Associate Professor of Energy and Mineral Engineering / Materials Science and Engineering](http://www.eme.psu.edu/faculty/brownson) |
