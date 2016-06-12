@@ -15,6 +15,7 @@ image:
 ## Author
 
 **Jeffrey R. S. Brownson (PhD)**   
+
 |-------------------------------------------------------------------------------------------------------------------------------------|
 |Director, Solar Ecology program, EMS Energy Institute                                                                                |
 |Co-Director: 2iE-PSU Centre for Collaborative Engagement                                                                             |
