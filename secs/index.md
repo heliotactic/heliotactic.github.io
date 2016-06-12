@@ -16,13 +16,12 @@ image:
 
 **Jeffrey R. S. Brownson (PhD)**   
 
-|-------------------------------------------------------------------------------------------------------------------------------------|
-|Director, Solar Ecology program, EMS Energy Institute                                                                                |
-|Co-Director: 2iE-PSU Centre for Collaborative Engagement                                                                             |
-|[Solar Option Lead: iMPS in Renewable Energy & Sustainability Systems](https://www.ress.psu.edu/solar_energy)                        |
+|Director, Solar Ecology program, EMS Energy Institute      |
+|Co-Director: 2iE-PSU Centre for Collaborative Engagement   |
+|[Solar Option Lead: iMPS in Renewable Energy & Sustainability Systems](https://www.ress.psu.edu/solar_energy) |
 |[Associate Professor of Energy and Mineral Engineering / Materials Science and Engineering](http://www.eme.psu.edu/faculty/brownson) |
-|John and Willie Leone Family Department of Energy and Mineral Engineering                                                            |
-|The Pennsylvania State University                                                                                                    |
+|John and Willie Leone Family Department of Energy and Mineral Engineering  |
+|The Pennsylvania State University             |
 
 **Publisher:** [Elsevier: Academic Press (2013)](https://www.elsevier.com/books/solar-energy-conversion-systems/brownson/978-0-12-397021-3)
 
@@ -43,7 +42,7 @@ The SECS text is designed for a new 3rd-4th year undergraduate solar course or a
 
 ## Coding Supplements for Students and Educators
 
-The calculation of parameters in solar energy are facilitated with software algorithms, particularly for chapters 3-8. As such, we have developed coding algorithms for both Scilab (open source) and Python (or Sage) to facilitate the learning process. A list of coding examples will be accumulating in the Templates tab.
+The calculation of parameters in solar energy are facilitated with software algorithms, particularly for chapters 3-8. As such, we have developed coding algorithms for both Scilab (open source) and Python (or Jupyter) to facilitate the learning process. A list of coding examples will be accumulating soon.
 
 ## Answers to Problem Sets for Educators
 
@@ -53,7 +52,7 @@ The problem sets at the end of the chapter have been worked and will be availabl
 
 For the most part, this course will rely on standard solar notation established in 1978 for the journal, Solar Energy. A paper on the subject is available here. I use the 1978 standard notation in our class lectures and the textbook.
 
-Exception: for some algorithms, we will use an alternate convention for orientation/azimuth, where the equator is the critical spatial constraint, not North or South. As such, the solar azimuth or collector azimuth is divided into negative (-0-180 degrees) for East, pre-noon directions; and positive (+0-180 degrees) for West, post-noon angles. This convention applies equally for both the Northern and Southern hemispheres. The choice of basis affects the form of the spherical trigonometric algorithms developed to calculate the angles of incidence.
+Exception: for some algorithms, we will use an alternate convention for orientation/azimuth, where the equator is the critical spatial constraint, not North or South. As such, the solar azimuth or collector azimuth is divided into negative (-0 to -180 degrees) for East, pre-noon directions; and positive (+0 to +180 degrees) for West, post-noon angles. This convention applies equally for both the Northern and Southern hemispheres. The choice of basis affects the form of the spherical trigonometric algorithms developed to calculate the angles of incidence.
 
 ## Supplemental Text
 
