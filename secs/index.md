@@ -16,7 +16,7 @@ image:
 
 **Jeffrey R. S. Brownson (PhD)**
 
-|: Director, Solar Ecology program, EMS Energy Institute                                                                                |
+|Director, Solar Ecology program, EMS Energy Institute                                                                                |
 |-------------------------------------------------------------------------------------------------------------------------------------|
 |Co-Director: 2iE-PSU Centre for Collaborative Engagement                                                                             |
 |[Solar Option Lead: iMPS in Renewable Energy & Sustainability Systems](https://www.ress.psu.edu/solar_energy)                        |
