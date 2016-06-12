@@ -12,20 +12,23 @@ image:
 # Author
 Jeffrey R. S. Brownson, Associate Professor of Energy & Mineral Engineering and Materials Science & Engineering; Solar Option Lead: iMPS Renewable Energy & Sustainability Systems, The Pennsylvania State University 
 
+* Table of Contents
+{:toc}
+
 ## [Elsevier: Academic Press (2013)](https://www.elsevier.com/books/solar-energy-conversion-systems/brownson/978-0-12-397021-3)
 
 ### Summary
 
 Solar energy conversion requires a different mind-set from traditional energy engineering in order to assess distribution, scales of use, systems design, predictive economic models for fluctuating solar resources, and planning to address transient cycles and social adoption. **Solar Energy Conversion Systems** examines solar energy conversion as an integrative design process, applying systems thinking methods to a solid knowledge base for creators of solar energy systems. This approach permits different levels of access for the emerging broad audience of scientists, engineers, architects, planners, and economists. Traditional texts in solar energy engineering have often emerged from mechanical or chemical engineering fields. Instead, **Solar Energy Conversion Systems** approaches solar energy conversion from the perspectives of integrative design, environmental technology, sustainability science, and materials science in the wake of amazing new thin films, polymers, and glasses developed by the optoelectronics and semiconductor industries. This is a new solar text for the new generation of green job designers and developers. It’s highlighted with vignettes that break down solar conversion into useful stories and provides common points of reference, as well as techniques, for effective estimation of evolving technologies. 
 
-### Key Features
+## Key Features
 
 * Contextualizes solar conversion for systems design and implementation in practical applications
 * Provides a complete understanding of solar power, from underlying science to essential economic outcomes
 * Analytical approach emphasizes systems simulations from measured irradiance and weather data rather than estimations from "rules of thumb"
 * Emphasizes integrative design and solar utility, where trans-disciplinary teams can develop sustainable solar solutions that increase client well-being and ecosystems services for a given locale
 
-### Readership
+## Readership
 
 The SECS text is designed for a new 3rd-4th year undergraduate solar course or an introductory graduate course in solar energy engineering and the science of solar materials and technologies.
 
