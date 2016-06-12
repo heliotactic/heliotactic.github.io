@@ -2,7 +2,7 @@
 layout: page
 title: Solar Energy Conversion Systems
 excerpt: "Textbook for multidisciplinary solar education"
-modified: 2016-06-09T19:44:38.564948-04:00
+modified: 2016-06-12T09:53-04:00
 image:
   feature: NorthPorch_SC_2016.png
   credit: JRS Brownson
@@ -14,7 +14,16 @@ image:
 
 ## Author
 
-Jeffrey R. S. Brownson, Associate Professor of Energy & Mineral Engineering and Materials Science & Engineering; Solar Option Lead: iMPS Renewable Energy & Sustainability Systems, The Pennsylvania State University 
+**Jeffrey R. S. Brownson (PhD)**
+
+Director, Solar Ecology program, EMS Energy Institute
+Co-Director: 2iE-PSU Centre for Collaborative Engagement
+[Solar Option Lead: iMPS in Renewable Energy & Sustainability Systems](https://www.ress.psu.edu/solar_energy)
+[Associate Professor of Energy and Mineral Engineering / Materials Science and Engineering](http://www.eme.psu.edu/faculty/brownson)
+John and Willie Leone Family Department of Energy and Mineral Engineering
+The Pennsylvania State University
+
+**Publisher:** [Elsevier: Academic Press (2013)](https://www.elsevier.com/books/solar-energy-conversion-systems/brownson/978-0-12-397021-3)
 
 ## Summary
 
@@ -30,8 +39,6 @@ Solar energy conversion requires a different mind-set from traditional energy en
 ## Readership
 
 The SECS text is designed for a new 3rd-4th year undergraduate solar course or an introductory graduate course in solar energy engineering and the science of solar materials and technologies.
-
-## [Elsevier: Academic Press (2013)](https://www.elsevier.com/books/solar-energy-conversion-systems/brownson/978-0-12-397021-3)
 
 ## Coding Supplements for Students and Educators
 
