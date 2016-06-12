@@ -14,8 +14,6 @@ image:
 
 ## Author
 
-
-
 |**Jeffrey R. S. Brownson (PhD)**                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------------|
 |Director, Solar Ecology program, EMS Energy Institute                                                                                |
