@@ -15,13 +15,13 @@ image:
 ## Author
 
 **Jeffrey R. S. Brownson (PhD)**
-
-Director, Solar Ecology program, EMS Energy Institute
-Co-Director: 2iE-PSU Centre for Collaborative Engagement
-[Solar Option Lead: iMPS in Renewable Energy & Sustainability Systems](https://www.ress.psu.edu/solar_energy)
-[Associate Professor of Energy and Mineral Engineering / Materials Science and Engineering](http://www.eme.psu.edu/faculty/brownson)
-John and Willie Leone Family Department of Energy and Mineral Engineering
-The Pennsylvania State University
+| Director, Solar Ecology program, EMS Energy Institute                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------|
+| Co-Director: 2iE-PSU Centre for Collaborative Engagement                                                                             |
+| [Solar Option Lead: iMPS in Renewable Energy & Sustainability Systems](https://www.ress.psu.edu/solar_energy)                        |
+| [Associate Professor of Energy and Mineral Engineering / Materials Science and Engineering](http://www.eme.psu.edu/faculty/brownson) |
+| John and Willie Leone Family Department of Energy and Mineral Engineering                                                            |
+| The Pennsylvania State University                                                                                                    |
 
 **Publisher:** [Elsevier: Academic Press (2013)](https://www.elsevier.com/books/solar-energy-conversion-systems/brownson/978-0-12-397021-3)
 
