@@ -12,7 +12,7 @@ image:
 * Table of Contents
 {:toc}
 
-# Author
+## Author
 
 Jeffrey R. S. Brownson, Associate Professor of Energy & Mineral Engineering and Materials Science & Engineering; Solar Option Lead: iMPS Renewable Energy & Sustainability Systems, The Pennsylvania State University 
 
