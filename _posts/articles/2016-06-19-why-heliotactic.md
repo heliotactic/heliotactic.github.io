@@ -5,10 +5,10 @@ date: 2016-06-19T09:27:24-04:00
 categories: articles
 description: "An exploration of why this site chooses to follow the sun, and strategize solar tactics."
 modified:
-excerpt: "Just think of the words "light", "energy", and "solar", and you have inherent perceived meanings for each that are currently shifting quickly in today's society of climate changing, wireless communications, and localized electric power systems..."
+excerpt: "Just think of the words `light`, `energy`, and `solar`, and you have inherent perceived meanings for each that are currently shifting quickly in today's society of climate changing, wireless communications, and localized electric power systems..."
 tags: [heliotactic, heliotropic, solar vernacular, etymology, brownson]
-image:
-  feature:
+#image:
+#  feature:
 comments: true
 share: true
 ---
