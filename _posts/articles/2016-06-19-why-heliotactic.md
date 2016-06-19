@@ -43,8 +43,10 @@ And so we finally come back to the motivating question: *Why "Heliotactic"?*. Fo
 **Words have power.**
 
 "Have at thee, coward!" 
+
 Light will out.
--JRSB
+
+`-JRSB`
 
 
 
