@@ -2,10 +2,10 @@
 layout: {{ layout }}
 title: {{ title }}
 date: {{ date }}
-description:
 modified:
+categories: {{ dir }}
 excerpt:
-keywords: 
+tags: []
 image:
   feature: 
 ---
