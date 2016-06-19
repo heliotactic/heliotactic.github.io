@@ -22,7 +22,7 @@ One of my favorite classes, years and years ago as a first year college student,
 
 Think of the space in which society has time and need to observe plants following the Sun in the first place? Do you have that time and patience to recognize that the light of the Sun is causing a motive response in plants? Big fields of sunflowers can be observed to be following the sun over the course of the day in a wonderful display of heliotropism. Here is an example of heliotropism in the Artic filmed by photographer [Dr. Michael Becker](http://michaelsbecker.com/?page_id=1230), where poppy flowers are tracking the light of the Sun in an entire circle during the summer above the Artic Circle, when the Sun never sets. The beginning is slow, but midway through you can see a section where the sun passes into the frame of view--a spectacular display.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3MYJEm99MYQ" frameborder="0" </iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3MYJEm99MYQ" frameborder="0"> </iframe> 
 *-credit: Michael Becker*
 
 Let's review one more important term, yet with a more ominous origination that ought to make you uncomfortable:
