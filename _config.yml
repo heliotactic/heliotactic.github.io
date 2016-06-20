@@ -57,7 +57,7 @@ owner:
   name: Jeffrey R. S. Brownson
   avatar: Brownson.jpg
   email: solarpower@psu.edu
-  #disqus-shortname:
+  disqus-shortname: heliotactic
   twitter: Heliotactic
 #  facebook: #username
   github: Heliotactic
@@ -75,3 +75,7 @@ owner:
   #  ad-client:
   #  ad-slot:
   # bing-verify:
+
+ 
+
+
