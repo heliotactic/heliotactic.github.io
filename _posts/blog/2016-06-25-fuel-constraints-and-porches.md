@@ -5,9 +5,11 @@ date: 2016-06-25T22:27:45-04:00
 modified:
 categories: blog
 excerpt: Whether we know it or not, solar energy applications are fairly pervasive in society, and essentially break down into simple conversions of solar irradiance to do some kind of work found useful or interesting to society. In looking back across history, technologies and common intergenerational traditions of solar use, called solar vernacular, that have been developing for millennia. These developments in solar adaptation often coincide with a specific fuel constraints, something that we call the energy constraint response.
-tags: [solar vernacular, solar ecology, technology, fuel constraint response]
-image:
-  feature: 
+tags: [solar vernacular, technology, energy constraint response]
+image: 
+  feature: Front_of_The_White_House.jpg
+  credit: Alex Proimos 
+  creditlink: https://www.flickr.com/people/34120957@N04
 comments: true
 share: true
 ---
@@ -20,7 +22,7 @@ It is interesting that famous Greek philosophers and artists commented on this s
 
 > "In houses that look toward the south, the sun penetrates the portico in winter" 
 
-And in doing so, the light from the Sun heats the floor and walls and keeps the space warm. And it works even better with the glass enclosure of windows (which came much later). An interesting translation is that a *portico* is essentially just an older term for a *porch*. If you have one, does your porch look toward the south? Did you know that this was a core part of the solar vernacular for the home? Solar always seems to have a story in our lives!
+And in doing so, the light from the Sun heats the floor and walls and keeps the space warm. And it works even better with the glass enclosure of windows (which came much later). An interesting translation is that a *portico* is essentially just an older term for a *porch*. And just for fun, I'm adding a familiar image of the South Portico from the White House in Washington DC. If you have one, does your porch look toward the south? Did you know that this was a core part of the solar vernacular for the home? Solar always seems to have a story in our lives!
 
 The Greek playwright Aeschylus further made a negative commentary on unspecified 'primitive' cultures that:
 
