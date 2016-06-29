@@ -14,6 +14,21 @@ Because solar energy is photovoltaics, and so much more...
 * Table of Contents
 {:toc}
 
+## What is Solar Ecology?
+
+`Solar photovoltaics` are established global commodities, and solar
+electricity is being planned at the gigawatt scale internationally, a
+phenomenal success story. This growth has coincided with a rapid
+maturation of the solar field, involving a grand opportunity to explore
+other `solar goods and services` in the wake of photovoltaic successes. The work of `solar ecology` discusses solar in transition, moving from a wave of photovoltaic growth as of now, toward major global impacts in the next century. Photovoltaic goods are identified as a bellwether for future opportunities that include integrative “solar” expressed across three existing cultures of design. `Solar utility` is the vehicle aiding project development in solar ecology, describing takeholders’ preference for `solar goods and services`
+fit within the dynamic perspective of the locale. The broader field of
+`solar ecology` is described as an emerging transdisciplinary systems
+field of solar energy within the context of the environment, society and
+technology–connecting science with design, business, lifestyle, health,
+and well-being. A `solar ecology` framework will contribute to a shared
+wave of coupled discoveries, inventions, and social change strongly
+influencing the food-energy-water nexus by 2100.
+
 ## Community Solar
 
 We are working on a new space called [Community Solar](http://www.communitysolar.psu.edu/), addressing the new trends for differentiated models of shared solar deployment. This space is based on the work of [Community Solar on State](http://sustainability.psu.edu/reinvention/community-solar-on-state): a Living Laboratory Framework for Outreach, Education, and Research-- funded by the Reinvention Fund of [Penn State's Sustainability Institute](http://sustainability.psu.edu/).

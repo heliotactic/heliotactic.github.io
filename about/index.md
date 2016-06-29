@@ -20,7 +20,14 @@ Solar energy conversion is a field containing systems thinking, applied science,
 
 ## Solar Ecology
 
-For over 10,000 years, the story of solar has been the story of society. We argue that solar energy must be addressed as a transformative, transdisciplinary framework for nexus research and adaptive design: solar ecology; with rich opportunities motivated by the need to understand our local regimes and pose sustainable adaption planning given a climate changed by 2100. We present the solar ecology framework for research and design at the interface of ecosystems and society. 
+For over 10,000 years, **the story of solar has been the story of society**. We are also embedded in a new age of *energy exploration* and discovery, within which "solar" is the dominant vehicle for change. Solar energy must be addressed as a transformative, transdisciplinary framework for nexus research and adaptive design, with rich opportunities motivated by the need to understand our local regimes and pose sustainable adaption planning given a climate changed by 2100. Hence, the `solar ecology` framework has emerged as a new school of thought for research and design at the interface of light, society, and our supporting ecosystems.
+
+> `Solar ecology` is the systems framework of discovery and design associated with **solar energy conversion** writ large, coupled with the dynamic context of `locale`, the affected `stakeholders`, and the diverse technologies or ecosystems providing preferred solar goods and services (`solar utility`).
+ 
+`Solar photovoltaics` are established global commodities, and solar
+electricity is being planned at the gigawatt scale internationally. This growth has coincided with a rapid maturation of the solar field, involving a grand opportunity to explore other solar goods and services in the wake of photovoltaic successes. The work of `solar ecology` explores solar in transition, moving from a wave of photovoltaic growth as of now, toward major global food-energy-water impacts in the next century. `Solar utility` is the vehicle aiding project development in solar ecology, describing stakeholders’ preferences for solar goods and services, fit within the dynamic perspective of the `locale`. The broader field of `solar ecology` is an emerging transdisciplinary systems field of solar energy within the context of the environment, society and technology--connecting science with design, business, lifestyle, health, and well-being. 
+
+ <iframe src="http://www.centredaily.com/living/article47032905.html"></iframe>
 
 ## Brownson Team Graduates
 
