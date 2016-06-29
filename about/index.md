@@ -27,11 +27,18 @@ For over 10,000 years, **the story of solar has been the story of society**. We 
 `Solar photovoltaics` are established global commodities, and solar
 electricity is being planned at the gigawatt scale internationally. This growth has coincided with a rapid maturation of the solar field, involving a grand opportunity to explore other solar goods and services in the wake of photovoltaic successes. The work of `solar ecology` explores solar in transition, moving from a wave of photovoltaic growth as of now, toward major global food-energy-water impacts in the next century. `Solar utility` is the vehicle aiding project development in solar ecology, describing stakeholders’ preferences for solar goods and services, fit within the dynamic perspective of the `locale`. The broader field of `solar ecology` is an emerging transdisciplinary systems field of solar energy within the context of the environment, society and technology--connecting science with design, business, lifestyle, health, and well-being. 
 
+
+## Solar Ecology in the Media
+
+**Focus on Research: Solar ecology explores the challenges in solar energy**
+An editorial commentary that I developed to frame `solar ecology` in 2015. This peice preceded our first all-day workshop on "Solar Ecology: Exploring the Grand Challenges in Solar Energy", held on Dec. 4, 2015 at the Earth and Mineral Sciences Energy Institute, University Park, PA.
+
  <div>
-    <iframe src="http://www.centredaily.com/living/article47032905.html" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="http://www.centredaily.com/living/article47032905.html" height="415" width="560" allowfullscreen="" frameborder="1">
     </iframe>
 </div>
 
+More Info: [www.energy.psu.edu/solarchallenge](http://www.energy.psu.edu/solarchallenge/)
 
 ## Brownson Team Graduates
 

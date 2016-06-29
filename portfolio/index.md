@@ -16,6 +16,8 @@ Because solar energy is photovoltaics, and so much more...
 
 ## What is Solar Ecology?
 
+> `Solar ecology` is the systems framework of discovery and design associated with **solar energy conversion** writ large, coupled with the dynamic context of `locale` (e.g. a regime of place and time), the affected `stakeholders`, and the diverse technologies or ecosystems providing preferred solar goods and services (i.e. `solar utility`).
+
 `Solar photovoltaics` are established global commodities, and solar
 electricity is being planned at the gigawatt scale internationally, a
 phenomenal success story. This growth has coincided with a rapid
