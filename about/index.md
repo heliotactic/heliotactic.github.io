@@ -9,7 +9,7 @@ image:
   #creditlink: 
 ---
 
-Dr. Brownson has worked to develop a new school of thought in solar energy called Solar Ecology. 
+Dr. Brownson works with colleagues and students to develop and describe a school of thought in solar energy called `Solar Ecology`. 
 
 * Table of Contents
 {:toc}
@@ -18,7 +18,7 @@ Dr. Brownson has worked to develop a new school of thought in solar energy calle
 
 Solar energy conversion is a field containing systems thinking, applied science, and engineering; there are a lot of linked components in the system to keep track of in the design, implementation, and maintenance processes. To design technologies relevant to each region requires knowledge of the social context, the energy demands and economic constraints of a client or stakeholders, as well as knowledge of the specific locale or region, considering the quantity and character of the solar resource. 
 
-## Solar Ecology
+## Solar Ecology in Brief
 
 For over 10,000 years, **the story of solar has been the story of society**. We are also embedded in a new age of *energy exploration* and discovery, within which "solar" is the dominant vehicle for change. Solar energy must be addressed as a transformative, transdisciplinary framework for nexus research and adaptive design, with rich opportunities motivated by the need to understand our local regimes and pose sustainable adaption planning given a climate changed by 2100. Hence, the `solar ecology` framework has emerged as a new school of thought for research and design at the interface of light, society, and our supporting ecosystems.
 
@@ -29,7 +29,7 @@ electricity is being planned at the gigawatt scale internationally. This growth 
 
 
 <!-- 
-    
+
 ## Solar Ecology in the Media
 
 **Focus on Research: Solar ecology explores the challenges in solar energy**
@@ -43,6 +43,17 @@ An editorial commentary that I developed to frame `solar ecology` in 2015. This 
 More Info: [www.energy.psu.edu/solarchallenge](http://www.energy.psu.edu/solarchallenge/) 
 
 -->
+
+## Brownson Research Overview
+
+Dr. Jeffrey R. S. Brownson’s contribution to renewable energy and society can be defined by the innovation of two frameworks guiding research and design for solar energy: 1) `solar ecology`: the solar science found in the systemic interactions of humans and biota and the surrounding environments, derived from the locale and dynamic flow of solar energy at Earth’s surface, and 2) `solar utility`: client/stakeholder preference for solar goods and services associated with the Goal of Solar Design and context-dependent constraints (`locale`) for solar energy conversion system projects.
+
+Solar energy conversion systems require professionals to simultaneously assess scales of solar resource supply and use, systems design, distribution needs, predictive economic models for a fluctuating resource, and involve planning to address transient cycles and social adoption. Contextual knowledge of constraints from the local solar resource, local energy costs, and local policy (termed `locale` by Brownson) informs the research and design process to integrate solar energy conversion systems within building systems, with respect to community planning, and within the interconnection of distributed photovoltaic power generation across broad regions. Underpinning the language of solar energy conversion design for the solar energy engineer, architect, or economist is the `Goal of Solar Design`: to maximize the `solar utility` of the resource for a client or `stakeholders` in a given `locale`. `Solar utility` is used as a vehicle aiding project development—describing client/stakeholders' preference for `solar goods and services`, fit within the dynamic perspective of the `locale`. This goal and framework has enabled Dr. Brownson to cultivate new solar project design skills in emerging professionals across disciplines of engineering, business, and meteorology. Dr. Brownson’s research confirms that locale defines the intermittency and strength of the resource as well as the behavioral choices for local communities, which affects the choice of materials, the necessary aggregation of energy technologies, the design and installation of the collector equipment, and the integrative optimization of system performance for the highest solar utility to clients or stakeholders.
+
+The context-dependent constraints guiding design and purpose in the systemic interactions of humans/biota with their surrounding environments then opens up the language for the science of the `solar ecology` framework, transdisciplinary research within the context of the environment, society and technology—affecting water and food systems coupled to local weather regimes. Dr. Brownson’s research reveals solar energy’s ubiquitous influence on water, land use, ecosystems services, food systems, and social systems, demonstrating how the solar ecology framework contributes to a shared new wave of discoveries and social change. The research and language underpinning solar utility and solar ecology expands the interpretation of solar energy conversion as an inclusive whole-systems dynamic process, bringing the field of solar energy to a new and broader interdisciplinary audience, enabling discussion for strategies assessing the solar resource (energy exploration techniques) and for integrative design of solar systems. Brownson collaborators include researchers in the fields of **Economics, Energy Engineering, Geography, Law, Materials, Meteorology, and Rural Sociology**.
+
+Dr. Brownson contributes unique expertise and skill for the measurement and analysis of the dynamic solar resource, the development of geospatial solar tools, and dynamic energy simulations for solar photovoltaics. He exercises his skills in solar science to extend applied research capabilities for design of solar energy conversion systems, and to enhance policy and planning strategies to assess project risks and benefits associated with diverse solar goods and services. Dr. Brownson also cultivates a breadth of insight across disciplines of economics, earth science, geography, materials, and meteorology to communicate his work and ideas widely, to be a bridge for collaboration across many disciplines, and to convey new and effective tools in solar science and solar project design. This depth of primary solar knowledge combined with the broad skill set in communication has opened up a large network of faculty collaborators in education and research at Penn State as well as collaborators abroad in Korea, Germany, Canada, and Burkina Faso of West Africa.
+
 
 ## Brownson Team Graduates
 
