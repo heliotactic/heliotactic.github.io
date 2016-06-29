@@ -9,7 +9,7 @@ image:
   #creditlink: 
 ---
 
-Dr. Brownson works with colleagues and students to develop and describe a school of thought in solar energy called `Solar Ecology`. 
+Dr. Brownson works with colleagues, students, and community members to explore the school of thought in solar energy called `Solar Ecology`. 
 
 * Table of Contents
 {:toc}
