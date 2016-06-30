@@ -4,7 +4,7 @@ title: Solar Ecology and Living Walls
 date: 2016-06-30T10:24:48-04:00
 modified:
 categories: blog
-excerpt: A quick share of solar ecology as design in the built environment. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. 
+excerpt: A quick share of solar ecology as design in the built environment. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. Here, students and faculty of the UT-Austin School of Architecture and the Lady Bird Johnson Wildflower Center collaborated to implement a vertical "living wall".
 tags: [solar ecology, living wall, architecture]
 comments: true
 share: true
@@ -19,7 +19,7 @@ A quick share of `solar ecology` as design in the built environment. It's always
 > 
 > **Michelle Bright**, an environmental designer at the Lady Bird Johnson Wildflower Center, chose native plants from ecoregions around Austin for the wall pods (including wildflowers, succulents, shrubs, vines and grasses). These visually striking and heat-tolerant plants also serve as a wildlife habitat.
 > 
-> The carefully selected native plants were chosen to attract and provide shelter for anole lizards, hummingbirds, butterflies, and songbirds, among other beneficial fauna."  --credit: Sara R. Lentz | June 20, 2016. 
+> The carefully selected native plants were chosen to attract and provide shelter for anole lizards, hummingbirds, butterflies, and songbirds, among other beneficial fauna."  --credit: Sara R. Lentz; June 20, 2016. 
 
 <iframe src="https://player.vimeo.com/video/171415202" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
 </iframe>
