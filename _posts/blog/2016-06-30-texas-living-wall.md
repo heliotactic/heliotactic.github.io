@@ -4,18 +4,18 @@ title: Solar Ecology and Living Walls
 date: 2016-06-30T10:24:48-04:00
 modified:
 categories: blog
-excerpt: A quick share of solar ecology as design in the built environment. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. Here, students and faculty of the UT-Austin School of Architecture and the Lady Bird Johnson Wildflower Center collaborated to implement a vertical "living wall".
+excerpt: A quick share for you on solar ecology implemented as design for the built environment from UT-Austin's School of Architecture. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. Here, students and faculty collaborated to implement a vertical "living wall".
 tags: [solar ecology, living wall, architecture]
 comments: true
 share: true
 ---
 
-A quick share of `solar ecology` as design in the built environment. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. Here, students and faculty of the [UT-Austin School of Architecture](http://soa.utexas.edu/) and the [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/) collaborated to implement a vertical "living wall": complete with local plants native to the surrounding ecoregions, and "shelter for anole lizards, hummingbirds, butterflies, and songbirds, among other beneficial fauna." The system creates a cooler microclimate adjoining the building, and can help to defry costs to cool the interior during the hot Austin summers.
+A quick share for you on `solar ecology` implemented as design for the built environment from UT-Austin's School of Architecture. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. The students and faculty of the [UT-Austin School of Architecture](http://soa.utexas.edu/) and the [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/) collaborated to implement a vertical "living wall": complete with local plants native to the surrounding ecoregions, and "shelter for anole lizards, hummingbirds, butterflies, and songbirds, among other beneficial fauna." The system creates a cooler microclimate adjoining the building, and can help to defry costs to cool the interior during the hot Austin summers.
 
 <iframe src="https://player.vimeo.com/video/171415202" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
 </iframe>
 
-Exceprted from the article by writer Sara Lentz: ["Campus Installs First Living Wall: Collaboration between the School of Architecture and the Lady Bird Johnson Wildflower Center explores the role of architecture in ecology.""](http://news.utexas.edu/2016/06/20/campus-installs-first-living-wall?utm_source=facebook&utm_medium=referral&utm_campaign=UTAustinSocial):
+Excerpted from the source article by writer Sara Lentz: ["Campus Installs First Living Wall: Collaboration between the School of Architecture and the Lady Bird Johnson Wildflower Center explores the role of architecture in ecology."](http://news.utexas.edu/2016/06/20/campus-installs-first-living-wall?utm_source=facebook&utm_medium=referral&utm_campaign=UTAustinSocial):
 
 > "To give the plants their best chance, **Danelle Briscoe**, an assistant professor in the School of Architecture, developed a honeycomb-shaped architectural structure, currently patent-pending. Its 148 "cells" (soil containers) were designed to accommodate a greater amount of dirt than is typically used — critical to sustaining the plants in Austin's subtropical climate.
 > 
@@ -26,6 +26,6 @@ Exceprted from the article by writer Sara Lentz: ["Campus Installs First Living 
 
 I remember our own [Penn State Solar Decathlon 2009](http://www.solardecathlon.gov/past/2009/team_penn.html) team developing living walls inside and outside the [Natural Fusion home](http://inhabitat.com/natural-fusion-penn-states-solar-decathlon-house/). What a fun solar development! 
 
-More Info: For quick additional descriptions surrounding living walls, check on the Wikipedia site for the synonymous term, [green walls](https://en.wikipedia.org/wiki/Green_wall).
+**More Info:** For quick additional descriptions surrounding living walls, check on the Wikipedia site for the synonymous term, [green walls](https://en.wikipedia.org/wiki/Green_wall).
 
 `-JRSB`
