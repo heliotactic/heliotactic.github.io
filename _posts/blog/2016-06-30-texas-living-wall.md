@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solar Ecology and Living Walls
+title: Living Walls
 date: 2016-06-30T10:24:48-04:00
 modified:
 categories: blog
