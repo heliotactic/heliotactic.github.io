@@ -14,7 +14,7 @@ share: true
 
 A quick share of `solar ecology` as design in the built environment. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. Here, students and faculty of the [UT-Austin School of Architecture](http://soa.utexas.edu/) and the [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/) collaborated to implement a vertical "living wall": complete with local plants native to the surrounding ecoregions, and "shelter for anole lizards, hummingbirds, butterflies, and songbirds, among other beneficial fauna." The system creates a cooler microclimate adjoining the building, and can help to defry costs to cool the interior during the hot Austin summers.
 
-<iframe src="https://player.vimeo.com/video/171415202" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<!-- <iframe src="https://player.vimeo.com/video/171415202" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
 
 
