@@ -4,7 +4,7 @@ title: Not BIPV--Co-creation of Solar Solutions
 date: 2016-07-02T13:28:16-04:00
 modified:
 categories: articles
-excerpt: Time for a lesson in commodities, systems integration, and hopefully a little comment on the value of jointly intentional group agency to develop solutions, nerded-down with the smooth phrasing: 'co-creation of knowledge'. News was just posted on GreenTech media that 'Dow Chemical Sheds Its Solar Shingle Business'. My gut reaction was: finally, it's about time.
+excerpt: Time for a lesson in commodities, systems integration, and hopefully a little comment on the value of jointly intentional group agency to develop solutions, nerded-down with the smooth phrasing of 'co-creation of knowledge'. News was just posted on GreenTech media that 'Dow Chemical Sheds Its Solar Shingle Business'. My gut reaction was--finally, it's about time.
 tags: [SIPV, BIPV, photovoltaics]
 image:
   feature: stock-exchange-913981.jpg
