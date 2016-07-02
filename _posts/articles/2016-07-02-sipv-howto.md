@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Not BIPV--Co-creation of Solar Solutions
+title: "Not BIPV: Co-creation of Solar Solutions"
 date: 2016-07-02T13:28:16-04:00
 modified:
 categories: articles
