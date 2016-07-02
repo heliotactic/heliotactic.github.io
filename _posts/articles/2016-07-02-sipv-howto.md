@@ -61,7 +61,7 @@ There is also the deep challenge of incorporating solar awareness and the story 
 
 And so, almost a decade after beginning solar team work at Penn State with the advent of the Solar Decathlon, I am continuing my work among large teams of people as an act of design. I have found amazing discoveries occur while working with communities, here in Central PA, and as far off as Burkina Faso, West Africa. I am rediscovering that the key to solar transformation and solar adoption: pay more attention to **people and place**, and less attention to the flashy novelty of the newest tech or materials.
 
-Now get going and dig in with your own community for new discoveries in `Solar Ecology`! There is a new age of energy exploration out there.
+Now get going and dig in with your own community for new discoveries in `Solar Ecology`. There is a new age of energy exploration out there!
 
 `-JRSB`
 
