@@ -50,7 +50,7 @@ As I noted in my work on [Solar Energy Conversion Systems](http://heliotactic.gi
 
 There is also the deep challenge of incorporating solar awareness and the story of solar into our mindsets. So not only is solar a commodity exposed to a global market, but it also is a technology that has not experienced a significant period of social reflection as to its place in the new energy-information economy. As such, entrepreneurs and communities will really benefit from thinking about what behavioral economist Prof. Sendhil Mullainathan calls "the last mile" problem. Problems that we seem to know how to solve, but collectively don't achieve. Here he is talking about technology solutions in medicine and agriculture, and the challenge of technology when the innovators miss the opportunity to "recognize the complexity of the human mind", and address the nudge to solve social challenges that are linked with technology. 
 
-<iframe src="https://embed-ssl.ted.com/talks/sendhil_mullainathan.html"  frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://embed-ssl.ted.com/talks/sendhil_mullainathan.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
 ## Change is in Co-Creation
