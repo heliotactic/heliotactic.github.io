@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Time for Solar Transformation"
+title: Time for Solar Transformation
 modified:
 categories: blog
-excerpt: "We are facing an important moment to shift our purpose in solar energy. In the past, if you were to think about "solar" you would tend to equate that word with a technology, like photovoltaics (PV) or solar hot water (SHW), and maybe even concentrating solar power (CSP). The point is, you are thinking of the technology that enables solar energy conversion, not the rivers of light flowing in to our atmosphere, soils, homes, skin, and eyes. There is so much more to solar energy in a vast, connecting way, that brings people together in communities, and connects each community to their special place of living."
+excerpt: We are facing an important moment to shift our purpose in solar energy. In the past, if you were to think about "solar" you would tend to equate that word with a technology, like photovoltaics (PV) or solar hot water (SHW), and maybe even concentrating solar power (CSP). The point is, you are thinking of the technology that enables solar energy conversion, not the rivers of light flowing in to our atmosphere, soils, homes, skin, and eyes. There is so much more to solar energy in a vast, connecting way, that brings people together in communities, and connects each community to their special place of living.
 tags: [solar, solar ecology, technology]
 image:
   feature:
