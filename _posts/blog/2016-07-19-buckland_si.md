@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buckland_SI
+title: Exploring the patterns of the flow of light--An interview with Jeffrey Brownson
 date: 2016-07-19T11:16:00-04:00
 modified:
 categories: blog
