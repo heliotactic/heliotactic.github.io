@@ -13,7 +13,10 @@ comments: true
 share: true
 ---
 
-Today I am republishing an excellent interview that I engaged in with Dr. Peter Buckland of the Penn State University  <a href="http://sustainability.psu.edu/" target="_blank">Sustainability Institute</a>. You can find the original article at the <a href="http://sustainability.psu.edu/fieldguide/exploring-the-patterns-of-the-flow-of-light-an-interview-with-jeffrey-brownson/" target="_blank">website of the SI</a>, and I also recommend looking into more of Peter's personal thoughts at his blog,  <a href="https://peterisintheforest.wordpress.com/" target="_blank">Peter is in the Forest</a>, and following him on Twitter:  <a href="https://twitter.com/pdbuckland?lang=en" target="_blank">@PDBuckland. </a> 
+Today I am sharing an excellent interview that I engaged in with Dr. Peter Buckland of the Penn State University  <a href="http://sustainability.psu.edu/" target="_blank">Sustainability Institute</a>. I am on the mend from a summer episode of Lyme disease, with positive progress, and so I am posting Peter's post from July 9, 2016. I hope you will enjoy this interview on `solar ecology`as much as I did speaking with Peter. It was so fun! More posts to come soon--they were just backlogged due to illness. Forward!
+
+You can find the original article at the <a href="http://sustainability.psu.edu/fieldguide/exploring-the-patterns-of-the-flow-of-light-an-interview-with-jeffrey-brownson/" target="_blank">website of the SI</a>, and I also recommend looking into more of Peter's personal thoughts at his blog,  <a href="https://peterisintheforest.wordpress.com/" target="_blank">Peter is in the Forest</a>, and following him on Twitter:  <a href="https://twitter.com/pdbuckland?lang=en" target="_blank">@PDBuckland. </a> 
+
 --- 
 
 **Peter Buckland**: Your championing the adoption of a big concept, `solar ecology`. Why? Where did that come from?
