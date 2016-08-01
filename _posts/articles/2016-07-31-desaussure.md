@@ -9,7 +9,7 @@ excerpt: Today is a mash-up of two great contributors to society, each of whom h
 tags: [heliothermometer, de Saussure, solar]
 image: MontBlanc2c.jpg
   feature: 
-  credit: [Nicolas Sanchez](https://commons.wikimedia.org/wiki/User:Sanchezn)--CC BY-SA 3.0
+  credit: "[Nicolas Sanchez](https://commons.wikimedia.org/wiki/User:Sanchezn)--CC BY-SA 3.0"
 comments: true
 share: true
 ---
