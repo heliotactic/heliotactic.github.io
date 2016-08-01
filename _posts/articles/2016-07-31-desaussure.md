@@ -69,7 +69,7 @@ De Saussure then proceeded to the Cramont on the Italian side of the Alps, on Mo
 
 Today we see this cooling is due to the role of the atmosphere and air chemistry as a transparent "cover" for the planet. Sunlight (shortwave band light) passes right through our clear-sky atmosphere (clouds aside), while Earth-light (and sky-light; each called longwave band light) is absorbed and then re-emitted by chemicals in the air (i.e. **everything glows**). In later centuries after de Saussure, researchers like Irish physicist [John Tyndall](http://www.rigb.org/our-history/iconic-objects/iconic-objects-list/tyndall-radiant-heat) (also a mountaineer) would develop the language of "radiant heat" and the interaction of water vapor and carbon dioxide to the non-visible longwave band light, glowing from the Earth's surface and the air itself as "thermal radiation". The atmosphere is a mixture of gases that includes the water vapor and carbon dioxide that Tyndall identified as crucial to absorbing and re-emitting longwave band light. At a simplistic level, the thicker the cover, the warmer the surrounding air. The unmixed air at higher elevations is essentially a "thinner cover" than that found at sea level.
 
-![NOAA's Mauna Loa Observatory after a snowstorm](http://www.esrl.noaa.gov/news/2013/img/MLO_600.png)
+![NOAA's Mauna Loa Observatory after a snowstorm](images/MLO_600a.png)
 
 [Attribution: Mary Miller, Exploratorium](http://www.esrl.noaa.gov/news/2013/CO2400.html)
 
