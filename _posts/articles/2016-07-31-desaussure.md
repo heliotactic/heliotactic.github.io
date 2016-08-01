@@ -105,7 +105,6 @@ The light will out friends.
 
 * For a fascinating look at [SHIP](http://task49.iea-shc.org/) for brewing in Austria, [see the Göss brewery from Heinekin](http://inhabitat.com/heineken-opens-the-worlds-first-large-scale-carbon-neutral-brewery-in-austria/heineken-goss-zero-carbon-brewery-2/).
 * For an amazing short read of HB de Saussure's inventive work, refer to the document prepared by the Musée d’histoire des sciences, Geneva (2011): ["The skies of Mont Blanc: Following the traces of Horace-Bénédict de Saussure (1740-1799) Pioneer of Alpine meteorology"](http://www.ville-ge.ch/mhs/pdf/aide_saussure_e.pdf)
-    - Attribution:
     - Concept and text: Anne Fauche and Stéphane Fischer (Musée d’histoire des sciences, Geneva)
     - Translation: Liz Hopkins
     - Graphic design: Corinne Charvet, Natural History Museum, Geneva
@@ -113,10 +112,10 @@ The light will out friends.
     - Musée d’histoire des sciences, Villa Bartholoni, Parc de la Perle du lac, rue de Lausanne 128, 1202 Genève
     - Web  :  www.ville-ge.ch
 * De Saussure's work was recognized in the 1978 AMS article by R. G. Barry ["H.-B. de Saussure: The first mountain meteorologist"](http://journals.ametsoc.org/doi/pdf/10.1175/1520-0477(1978)059%3C0702:HBDSTF%3E2.0.CO%3B2)
-* For a longer read of de Saussure role in the history of solar energy (and beyond), try John Perlin's book: [Let It Shine:
+* For a longer read of de Saussure's role in the history of solar energy (and beyond), try John Perlin's book: [Let It Shine:
 The 6000-Year Story of Solar Energy](http://john-perlin.com/)
 * Notable namings attributed to de Saussure:
     - An entire *Genus* of alpine plants were named after him: [*Saussurea*](https://en.wikipedia.org/wiki/Saussurea) are thistle-like plants.
-    - A mineral aggregate was named after H-B: [*Saussurite*](https://en.wikipedia.org/wiki/Saussurite) is an aggregation of hydrothermally altered plagioclase feldspar, discovered on the slopes of [Mont Blanc](https://en.wikipedia.org/wiki/Mont_Blanc) by Saussure.
+    - A mineral aggregate was named after H-B: [*Saussurite*](https://en.wikipedia.org/wiki/Saussurite) is an aggregation of hydrothermally altered plagioclase feldspar, discovered on the slopes of [Mont Blanc](https://en.wikipedia.org/wiki/Mont_Blanc) by de Saussure.
 * The report by S. P. Langley is available to the public via Google Books: ["Researches on solar heat and its absorption by the earth's atmosphere: A report of the Mount Whitney expedition" (1884)](https://books.google.com/books?id=sTwAAAAAQAAJ&lpg=PA6&ots=J2Xpy84KIM&dq=Researches%20on%20solar%20heat%20and%20its%20absorption%20by%20the%20earth's%20atmosphere%3A%20A%20report%20of%20the%20Mount%20Whitney%20expedition&pg=PA6#v=onepage&q&f=false)
 * The *Nature* volume with S. P. Langley's report on solar research is also available to the public via Google Books: ["The Mount Whitney Expedition" Aug 3, 1882, pp. 314-317](https://books.google.com/books?id=3L13yUIAMAkC&lpg=PA323&ots=nha1bLoVIE&dq=copper%20vessel%2C%20over%20which%20lay%20two%20sheets%20of%20plain%20window%20glass%2C%20rose%20above%20the%20boiling%20point%20of%20water&pg=PA323#v=onepage&q=copper%20vessel,%20over%20which%20lay%20two%20sheets%20of%20plain%20window%20glass,%20rose%20above%20the%20boiling%20point%20of%20water&f=false)
