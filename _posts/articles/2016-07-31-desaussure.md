@@ -5,7 +5,7 @@ date: 2016-07-31T22:50:15-04:00
 modified:
 description: "An exploration of a key bridge in the history of solar energy."
 categories: articles
-excerpt: Today is a mash-up of two great contributors to society, each of whom have rested just on the periphery of our common knowledge. Today we look to participants that have helped me to see shape of the story of solar, each of whom had such an impact on my work and my livelihood in this new space of Solar Ecology.
+excerpt: Today is a mash-up of two great contributors to society, each of whom have rested just on the periphery of our common knowledge. Today we look to participants that have helped me to see the shape of the story of solar, each of whom had such an impact on my work and my livelihood in this new space of Solar Ecology.
 tags: [heliothermometer, de Saussure, solar, mountaineering, greenhouse effect]
 image: 
   feature: MontBlanc2c.jpg
@@ -16,7 +16,7 @@ share: true
 
 > “Time is an enormous, long river, and I’m standing in it, just as you’re standing in it. My elders are the tributaries, and everything they thought and every struggle they went through and everything they gave their lives to, and every song they created, and every poem that they laid down flows down to me – and if I take the time to ask, and if I take the time to see, and if I take the time to reach out, I can build that bridge between my world and theirs. I can reach down into that river and take out what I need to get through this world”  --U. Utah Phillips
 
-Today is a mash-up of two great contributors to society, each of whom have rested just on the periphery of our common knowledge. Today we look to participants that have helped me to see shape of the story of solar, each of whom had such an impact on my work and my livelihood in this new space of `Solar Ecology`.
+Today is a mash-up of two great contributors to society, each of whom have rested just on the periphery of our common knowledge. Today we look to participants that have helped me to see the shape of the story of solar, each of whom had such an impact on my work and my livelihood in this new space of `Solar Ecology`.
 
 ---
 
