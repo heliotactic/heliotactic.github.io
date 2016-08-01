@@ -6,17 +6,15 @@ modified:
 description: "An exploration of a key bridge in the history of solar energy."
 categories: articles
 excerpt: Today is a mash-up of two great contributors to society, each of whom have rested just on the periphery of our common knowledge. Today we look to participants that have helped me to see shape of the story of solar, each of whom had such an impact on my work and my livelihood in this new space of Solar Ecology.
-tags: [heliothermometer, de Saussure, solar]
+tags: [heliothermometer, de Saussure, solar, mountaineering, greenhouse effect]
 image: 
   feature: MontBlanc2c.jpg
-  credit: WikiMedia Commons, [Nicolas Sanchez--CC BY-SA 3.0](https://commons.wikimedia.org/wiki/User:Sanchezn)
+  credit: Nicolas Sanchez--WikiMedia Commons CC BY-SA 3.0 (User:Sanchezn)
 comments: true
 share: true
 ---
 
-Image credit: 
-
-> “Time is an enormous, long river, and I’m standing in it, just as you’re standing in it. My elders are the tributaries, and everything they thought and every struggle they went through and everything they gave their lives to, and every song they created, and every poem that they laid down flows down to me – and if I take the time to ask, and if I take the time to see, and if I take the time to reach out, I can build that bridge between my world and theirs. I can reach down into that river and take out what I need to get through this world”  ---U. Utah Phillips
+> “Time is an enormous, long river, and I’m standing in it, just as you’re standing in it. My elders are the tributaries, and everything they thought and every struggle they went through and everything they gave their lives to, and every song they created, and every poem that they laid down flows down to me – and if I take the time to ask, and if I take the time to see, and if I take the time to reach out, I can build that bridge between my world and theirs. I can reach down into that river and take out what I need to get through this world”  --U. Utah Phillips
 
 Today is a mash-up of two great contributors to society, each of whom have rested just on the periphery of our common knowledge. Today we look to participants that have helped me to see shape of the story of solar, each of whom had such an impact on my work and my livelihood in this new space of `Solar Ecology`.
 
@@ -58,9 +56,9 @@ In the 18th century, de Saussure was deeply interested in this phenomena of cool
 
 ![de Saussure's hot box](http://solarcooking.org/images/saussure1.gif)
 
-Attribution: [Solar Cooking.org](http://solarcooking.org/saussure.htm)
+Attribution: [Solar Cooking.org](http://solarcooking.org/saussure.htm) Accessed: July 31, 2016.
 
-From my open solar course at Penn State, [EME 810](https://www.e-education.psu.edu/eme810/node/552):
+An excerpt on de Saussure from my Open Educational Resource solar course at Penn State, [EME 810](https://www.e-education.psu.edu/eme810/node/552):
 > He began to explore the role of a glass cover on a confined space like a box or a room. In the 1760s, de Saussure observed the following: "It is a known fact, and a fact that has probably been known for a long time, that a room, a carriage, or any other place is hotter when the rays of the sun pass through glass." To find out how effective a glass cover works to trap solar gains, de Saussure constructed a large flat pine box that was insulated inside, with a glass cover on top. Inside the box he placed smaller boxes. When the flat cavity-cover absorber was exposed to the sun (no concentration), the internal box heated to 109 °C (228 °F), which is 9 degrees higher than the boiling point of water.
 
 ## Peaks and Valleys, Sunlight and Earth-light
@@ -71,7 +69,12 @@ De Saussure then proceeded to the Cramont on the Italian side of the Alps, on Mo
 
 Today we see this cooling is due to the role of the atmosphere and air chemistry as a transparent "cover" for the planet. Sunlight (shortwave band light) passes right through our clear-sky atmosphere (clouds aside), while Earth-light (and sky-light; each called longwave band light) is absorbed and then re-emitted by chemicals in the air (i.e. **everything glows**). In later centuries after de Saussure, researchers like Irish physicist [John Tyndall](http://www.rigb.org/our-history/iconic-objects/iconic-objects-list/tyndall-radiant-heat) (also a mountaineer) would develop the language of "radiant heat" and the interaction of water vapor and carbon dioxide to the non-visible longwave band light, glowing from the Earth's surface and the air itself as "thermal radiation". The atmosphere is a mixture of gases that includes the water vapor and carbon dioxide that Tyndall identified as crucial to absorbing and re-emitting longwave band light. At a simplistic level, the thicker the cover, the warmer the surrounding air. The unmixed air at higher elevations is essentially a "thinner cover" than that found at sea level.
 
+![NOAA's Mauna Loa Observatory after a snowstorm](MLO_600.png)
+[Credit: Mary Miller, Exploratorium](http://www.esrl.noaa.gov/news/2013/CO2400.html)
+
 And so we have a linkage, from the measurements of de Saussure in the 18th century, to the theory of Fourier, and the laboratory experiments of Tyndall, to arrive at the essential concepts of the [greenhouse effect](https://www.britannica.com/science/greenhouse-effect) developed even later by Svante Arrhenius in the 19th century, in our earliest climate models. Since 1956, measurements of global $CO_2$ concentrations have been performed on the top of another mountain, the NOAA [Mauna Loa Observatory](http://www.esrl.noaa.gov/gmd/ccgg/about/co2_measurements.html) in Hawaii, USA. So now we know, the sky is a cover, and the Earth is one big hot box!
+
+
 
 ## Final Digression on Optocalorics
 
@@ -90,7 +93,7 @@ In the end, light is *light*: an electromagnetic phenomenon (or, `radiant heat`)
 There is this whole rich space for expansion in `optocalorics`--can't wait to see you all absorbing the fun and sharing the many new discoveries waiting for us all out there! And now, let's bring it on back to our modern troubadour, Utah:
 
 > “I have a good friend in the East, who comes to my shows and says, you sing a lot about the past, you can't live in the past, you know. I say to him, I can go outside and pick up a rock that's older than the oldest song you know,
-and bring it back in here and drop it on your foot. **Now the past didn't go anywhere, did it? It's right here, right now.** I always thought that anybody who told me I couldn't live in the past was trying to get me to forget something that if I remembered it it would get them serious trouble. No, that 50s, 60s, 70s, 90s stuff, that whole idea of decade packaging, things don't happen that way. The Vietnam War heated up in 1965 and ended in 1975--what's that got to do with decades? No, that packaging of time is a journalist convenience that they use to trivialize and to dismiss important events and important ideas. I defy that.” -- Utah Phillips
+and bring it back in here and drop it on your foot. **Now the past didn't go anywhere, did it? It's right here, right now.** I always thought that anybody who told me I couldn't live in the past was trying to get me to forget something that if I remembered it it would get them serious trouble. No, that 50s, 60s, 70s, 90s stuff, that whole idea of decade packaging, things don't happen that way. The Vietnam War heated up in 1965 and ended in 1975--what's that got to do with decades? No, that packaging of time is a journalist convenience that they use to trivialize and to dismiss important events and important ideas. I defy that.” -- U. Utah Phillips
 
 The light will out friends.
 -JRSB
