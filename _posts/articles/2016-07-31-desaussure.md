@@ -5,7 +5,7 @@ date: 2016-07-31T22:50:15-04:00
 modified:
 description: "An exploration of a key bridge in the history of solar energy."
 categories: articles
-excerpt: Today is a mash-up of two great contributors to society, each of whom have rested just on the periphery of our common knowledge. Today we look to participants that have helped me to see shape of the story of solar, each of whom had such an impact on my work and my livelihood in this new space of `Solar Ecology`.
+excerpt: Today is a mash-up of two great contributors to society, each of whom have rested just on the periphery of our common knowledge. Today we look to participants that have helped me to see shape of the story of solar, each of whom had such an impact on my work and my livelihood in this new space of Solar Ecology.
 tags: [heliothermometer, de Saussure, solar]
 image: MontBlanc2c.jpg
   feature: 
