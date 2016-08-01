@@ -9,10 +9,12 @@ excerpt: Today is a mash-up of two great contributors to society, each of whom h
 tags: [heliothermometer, de Saussure, solar]
 image: MontBlanc2c.jpg
   feature: 
-  credit: "[Nicolas Sanchez](https://commons.wikimedia.org/wiki/User:Sanchezn)--CC BY-SA 3.0"
+  credit: WikiMedia Commons: Nicolas Sanchez--CC BY-SA 3.0
 comments: true
 share: true
 ---
+
+Image credit: [Nicolas Sanchez--CC BY-SA 3.0](https://commons.wikimedia.org/wiki/User:Sanchezn)
 
 > “Time is an enormous, long river, and I’m standing in it, just as you’re standing in it. My elders are the tributaries, and everything they thought and every struggle they went through and everything they gave their lives to, and every song they created, and every poem that they laid down flows down to me – and if I take the time to ask, and if I take the time to see, and if I take the time to reach out, I can build that bridge between my world and theirs. I can reach down into that river and take out what I need to get through this world”  ---U. Utah Phillips
 
