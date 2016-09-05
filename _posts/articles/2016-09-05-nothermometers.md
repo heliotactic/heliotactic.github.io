@@ -32,7 +32,7 @@ Next stop The Twilight Zone." --Rod Serling
 
 ## Solar Culture Sleeps: Where is it?
 
-The culture of `solar energy` and `light` exists, seemingly just below the surface of society, in a dreamtime that has passed with our great grandparents.We have become asleep to the culture of solar energy, to the culture of light, particularly at home. That solar culture has access to a dormant `solar vernacular` tied to place and time (called the [`locale`](https://www.e-education.psu.edu/eme810/node/548)); to seasonality, daily fluxes, and even momentary strategies for standing in the shade on the corner of a hot summer day; tied to solar design and practice in travel, farming, and home care; and the `story of solar` caught in verse, proverb, image, and song. 
+The culture of `solar energy` and `light` exists, seemingly just below the surface of society, in a dreamtime that has passed with our great grandparents.  We have become asleep to the culture of solar energy, to the culture of light, particularly at home. That solar culture has access to a dormant `solar vernacular` tied to place and time (called the [`locale`](https://www.e-education.psu.edu/eme810/node/548)); to seasonality, daily fluxes, and even momentary strategies for standing in the shade on the corner of a hot summer day; tied to solar design and practice in travel, farming, and home care; and the `story of solar` caught in verse, proverb, image, and song. 
 
 > "Only mad dogs and Englishmen go out in the noonday sun." --Indian Proverb applied to the Indian [`locale`](https://www.e-education.psu.edu/eme810/node/548)
 
