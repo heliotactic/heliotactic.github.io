@@ -7,7 +7,7 @@ categories: articles
 excerpt: This is my world, the world of solar energy--where there is no public value for measuring light, and there are effectively no solar thermometers available for the public.
 tags: [solar, measurement, embedded ethics, society]
 image:
-  feature: HoneywellThermostat.jpg
+  feature: HoneyWell.png
   credit: WikiMedia Commons CC BY 2.0 (Flickr user:midnightcomm)
 comments: true
 share: true
