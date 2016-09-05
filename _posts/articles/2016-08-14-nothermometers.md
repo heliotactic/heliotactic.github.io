@@ -4,7 +4,7 @@ title: Imagine a World without Thermometers
 date: 2016-08-14T13:50:35-04:00
 modified: 2016-09-05T12:40:05-04:00
 categories: articles
-excerpt: This is my world, the world of solar energy--where there is no public value for measuring light, and there are effectively no solar *thermometers* available for the public.
+excerpt: This is my world, the world of solar energy--where there is no public value for measuring light, and there are effectively no solar thermometers available for the public.
 tags: [solar, measurement, embedded ethics, society]
 image:
   feature: HoneywellThermostat.jpg
