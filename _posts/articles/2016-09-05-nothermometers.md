@@ -8,7 +8,7 @@ excerpt: This is my world, the world of solar energy--where there is no public v
 tags: [solar, measurement, embedded ethics, society]
 image:
   feature: HoneywellThermostat.jpg
-  credit: WikiMedia Commons CC BY 2.0 (Flickr user: midnightcomm)
+  credit: WikiMedia Commons CC BY 2.0 (Flickr user:midnightcomm)
 comments: true
 share: true
 ---
