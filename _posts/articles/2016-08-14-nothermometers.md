@@ -2,19 +2,28 @@
 layout: post
 title: Imagine a World without Thermometers
 date: 2016-08-14T13:50:35-04:00
-modified:
+modified: 2016-09-05T12:40:05-04:00
 categories: articles
 excerpt: This is my world, the world of solar energy--where there is no public value for measuring light, and there are effectively no solar *thermometers* available for the public.
 tags: [solar, measurement, embedded ethics, society]
 image:
-  feature: 
+  feature: HoneywellThermostat.jpg
+  credit: WikiMedia Commons CC BY 2.0 (Flickr user: midnightcomm)
 comments: true
 share: true
 ---
 
 ## Highway to the Shadowy Tip of Reality
 
-Imagine a cool conference room in the Fall with a Nigerian, a German, and an American. One person is freezing, one person feels the room is uncomfortably cool, and the American is looking for a wall control to make the room colder, because it feels "stuffy." Only she cannot, because the "thermometer" in the normal thermostat is just not there. The others cannot warm up the room for the same reason. What's wrong? *This is a world with no `thermometers`*, no system of measurement to provide information, feedback, or learning to people or to smart computer control systems. In our world, there are numerous measures of temperature, relative humidity, and even CO2 concentration that contribute to comfort in a room--but here, in this world, imagine that you do not have access to any of them to aid in communication, learning, and control.
+> Imagine a cool kitchen in the fall, or a cold garage in the winter, imagine a stifling hot music hall before a concert, or the frigid cool of a grocery store near the frozen goods section. Is your "hot" like mine? Do you overheat in the New Orleans afternoon in June, or go for a stroll? Is your "cold" comparable to the North Dakota winters that I grew up in, where your skin can freeze in under a minute? 
+
+You see, *thermal comfort* is personal, developed, conditional...that environmental-body exchange to emerge as *thermal comfort* is also regional, cultural, and even transitory with the seasons. And when we think of *thermal comfort* we often associate it with the valued metric of `temperature`. But body comfort is not the same as temperature. In fact, there are many many factors that affect our bodily engagement with our surroundings and the emergent sensation that we ascribe to *comfort* (relative humidity, CO2 levels, particulates, air flow, etc.) When it comes to adapting to meet comfort inside of a room or hall though, what we would call *conditioned space*, `temperature` becomes our go-to proxy to adapt and change the space (conditioning the space with air...voila: *air conditioning*).
+
+What helps us to regulate our interior spaces in the modern day? The [theromostat](https://en.wikipedia.org/wiki/Thermostat): the transformative feedback technology to measure the system's air temperature relative to a desired "set point," then switching heating or cooling on/off to meet that  temperature condition. They control our central heating and ventilation fans, our window unit air conditioners, they control our ovens and our refrigerators. And at the core of a thermostat is a `thermometer` of some form (often a [thermistor](https://en.wikipedia.org/wiki/Thermistor) device).
+
+> Now imagine a conference room where we have congregated diplomats in suits from Nigeria, Germany, the USA. One person is freezing, one person feels the room is uncomfortably cool, and the American is looking for a wall control to make the room colder, because it feels "stuffy." Only she cannot, because today the `thermometer`, the device to measure the temperature of the space in a normal thermostat is just not there. 
+
+What's wrong? *This is a world with no `thermometers`*, no system of measurement to provide information, feedback, or learning to people or to smart computer control systems. In our world, there are numerous measures of temperature, relative humidity, and even CO2 concentration that contribute to comfort in a room--but here, in this world, imagine that you do not have access to any of them to aid in communication, learning, and control.
 
 This is my world, the world of solar energy--where there is no public value for measuring `light`, and there are effectively no solar "thermometers" available for the public.
 
