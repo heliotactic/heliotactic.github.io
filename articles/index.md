@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blue Sky Solar Articles
-excerpt: "Archive of solar thinking sorted by date."
+title: Diffraction Experimentions
+excerpt: "Archive of entangled thinking sorted by date."
 search_omit: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Commentary
-excerpt: "Helio-Tactics, solar tracking, and seeds of blog posts"
+title: Helio-Praxis
+excerpt: "Helio-Tactics and Seeds of Disruption: The Revolution will not be televised."
 search_omit: true
 ---
 

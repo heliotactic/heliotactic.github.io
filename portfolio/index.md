@@ -16,33 +16,23 @@ Because solar energy is photovoltaics, and so much more...
 
 ## What is Solar Ecology?
 
-> `Solar ecology` is the systems framework of discovery and design associated with **solar energy conversion** writ large, coupled with the dynamic context of `locale` (e.g. a regime of place and time), the affected `stakeholders`, and the diverse technologies or ecosystems providing preferred solar goods and services (i.e. `solar utility`).
+> In a nutshell, `Solar ecology` is farming. `Solar Ecology` traces the dynamic systems framework of discovery and design associated with **solar energy conversion** technologies like photovoltaics, people, and the spaces they intersect. Solar Ecology attends to light-matter intra-actions diffracted through contexts of `locale` (regime of place and time that affects and is affected by systems performance), and through the context of `stakeholders` of the locale who will be affected by the preference for solar goods and services throughout society (i.e. `solar utility`).
 
 `Solar photovoltaics` are established global commodities, and solar
-electricity is being planned at the gigawatt scale internationally, a
-phenomenal success story. This growth has coincided with a rapid
-maturation of the solar field, involving a grand opportunity to explore
-other `solar goods and services` in the wake of photovoltaic successes. The work of `solar ecology` discusses solar in transition, moving from a wave of photovoltaic growth as of now, toward major global impacts in the next century. Photovoltaic goods are identified as a bellwether for future opportunities that include integrative “solar” expressed across three existing cultures of design. `Solar utility` is the vehicle aiding project development in solar ecology, describing takeholders’ preference for `solar goods and services`
-fit within the dynamic perspective of the locale. The broader field of
-`solar ecology` is described as an emerging transdisciplinary systems
-field of solar energy within the context of the environment, society and
-technology–connecting science with design, business, lifestyle, health,
-and well-being. A `solar ecology` framework will contribute to a shared
-wave of coupled discoveries, inventions, and social change strongly
-influencing the food-energy-water nexus by 2100.
+electricity is being planned at the gigawatt scale internationally, a phenomenal success story. This growth has coincided with a rapid
+maturation of the solar field, involving a grand opportunity to explore other `solar goods and services` in the wake of photovoltaic successes. The work of `solar ecology` discusses solar in transition, moving from a wave of photovoltaic growth as of now, toward major global impacts in the next century. Photovoltaic goods are identified as a bellwether for future opportunities that include integrative “solar” expressed across three existing cultures of design. `Solar utility` is the vehicle aiding project development in solar ecology, describing takeholders’ preference for `solar goods and services` fit within the dynamic perspective of the locale. A `solar ecology` framework will contribute to a shared wave of coupled discoveries, inventions, and social change strongly influencing the food-energy-water nexus by 2100.
 
 ## Community Solar
 
-We are working on a new space called [Community Solar](http://www.communitysolar.psu.edu/), addressing the new trends for differentiated models of shared solar deployment. This space is based on the work of [Community Solar on State](http://sustainability.psu.edu/reinvention/community-solar-on-state): a Living Laboratory Framework for Outreach, Education, and Research-- funded by the Reinvention Fund of [Penn State's Sustainability Institute](http://sustainability.psu.edu/).
+We have developed a work space for shared solar called [Community Solar](http://www.communitysolar.psu.edu/), addressing the new trends for differentiated models of shared solar deployment. This space is based on the work of [Community Solar on State](http://sustainability.psu.edu/reinvention/community-solar-on-state): a Living Laboratory Framework for Outreach, Education, and Research-- funded by the Reinvention Fund of [Penn State's Sustainability Institute](http://sustainability.psu.edu/).
 
 Penn State has developed a strong community interest and passion for solar energy research and development. The students, staff, and faculty, and our surrounding community deserve a path to enable the low-carbon future to grow photovoltaic (PV) installations in the framework of the Living Laboratory. We also wish to create an outreach and educational platform that will allow our community to proceed with a pilot community PV project, called a “solar garden”, retain the best practices learned, and then move forward with enabling prospective solar projects as they evolve in the future. 
 
 ## Solar ASE: the All-Seeing Eye
 
-In collaboration with Dr. George Young (Penn State Dept. of Meteorology and Atmospheric Science) and our PhD student Mr. Vivek Srikrishnan, our team has confirmed the viability of a new form of solar resource monitoring technology: a 5x multipyranometer array trained with an Artificial Neural Network to extract the anisotropy of the solar resource (beam irradiance, diffuse sky irradiance, and ground diffuse irradiance components) for any oriented surface.
+In collaboration with Dr. George Young (Penn State Dept. of Meteorology and Atmospheric Science) and our Dr. Vivek Srikrishnan, our team has confirmed the viability of a new form of solar resource monitoring technology: a 5x multipyranometer array trained with an Artificial Neural Network to extract the anisotropy of the solar resource (beam irradiance, diffuse sky irradiance, and ground diffuse irradiance components) for any oriented surface.
 
 The `Solar ASE` system--where "ASE" has been abbreviated from the `All-Seeing Eye` (yes, several of us are Tolkien fans...)--greatly reduces measurement errors over standard empirical correlations used throughout the solar industry today, verified in Golden, CO by our team. Existing empirical solar irradiance models that decouple compenents of light will estimate the `beam component` (or `direct`) of solar light with 20-30% error from that of true pyherliometer measured data. The tested ASE system offers estimates with <10% error. Under snowy conditions, existing empirical solar irradiance models are even worse, with 48% error, while the ASE still presents 15%. 
 
 The ASE system will ultimately be valued to society for solar photovoltaics, agriculture such as grape productivity for wine, and smart building controls. In addition by substituting the ASE for pyrheliometer devices, we hope to reduce systems costs by an order of magnitude, from $20,000-$30,000 per system to well below $1000. All efforts have been made to embrace an open-source approach to developing the ASE system, in order to maximize the viral dispersion of such an important and transformative technology. Both Undergraduates and Graduate students have been involved in the next stage of deployment, supported by the 2015 PSIEE Seed Grant funds.
-
 
