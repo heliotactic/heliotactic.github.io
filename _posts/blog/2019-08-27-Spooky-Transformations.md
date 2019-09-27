@@ -3,7 +3,7 @@ layout: post
 title: Transformations through time: letter from a spooky ghost 
 modified:
 categories: blog
-tags: [ new, transformation, ]
+tags: [transformation]
 image:
   feature:
 date: 2019-08-27T09:53:50-04:00
