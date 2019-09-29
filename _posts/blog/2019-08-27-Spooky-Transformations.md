@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transformations through time: letter from a spooky ghost 
+title: Transformations through time...letter from a spooky ghost 
 modified:
 categories: blog
 tags: [transformation]
