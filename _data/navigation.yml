@@ -1,12 +1,12 @@
 # Site navigation links
 
-- title: Brownson Research
+- title: Brownson Works
   url: /about/
 
-- title: Articles
+- title: Diffraction Articles
   url: /articles/
 
-- title: Commentary
+- title: Queering Solar Blog
   url: /blog/
 
 - title: Solar Ecology
@@ -15,7 +15,7 @@
 - title: Solar Genome Project
   url: /SGP/ 
 
-- title: SECS Book
+- title: Solar Book
   url: /secs/ 
 
 - title: Search
