@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diffraction Experiments
+title: Diffraction Experiments - attending to light and entanglements of measure and value
 excerpt: "Archive of entangled thinking sorted by date."
 search_omit: true
 ---

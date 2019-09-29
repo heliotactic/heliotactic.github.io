@@ -9,7 +9,7 @@ modified: 2016-06-09
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-#pack/
 ---
 
-Because solar energy is photovoltaics, and so much more...
+Because solar ecology with photovoltaics is farming, and so much more...
 
 * Table of Contents
 {:toc}
