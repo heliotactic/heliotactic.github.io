@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diffraction Experimentions
+title: Diffraction Experiments
 excerpt: "Archive of entangled thinking sorted by date."
 search_omit: true
 ---
