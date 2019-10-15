@@ -9,7 +9,7 @@ modified: 2016-06-09
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-#pack/
 ---
 
-Because solar ecology with photovoltaics is farming, and so much more...
+Because solar ecology withnergy is photovoltaics is farming, and so much more...
 
 * Table of Contents
 {:toc}
@@ -36,3 +36,6 @@ The `Solar ASE` system--where "ASE" has been abbreviated from the `All-Seeing Ey
 
 The ASE system will ultimately be valued to society for solar photovoltaics, agriculture such as grape productivity for wine, and smart building controls. In addition by substituting the ASE for pyrheliometer devices, we hope to reduce systems costs by an order of magnitude, from $20,000-$30,000 per system to well below $1000. All efforts have been made to embrace an open-source approach to developing the ASE system, in order to maximize the viral dispersion of such an important and transformative technology. Both Undergraduates and Graduate students have been involved in the next stage of deployment, supported by the 2015 PSIEE Seed Grant funds.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MjI1MTg1NTBdfQ==
+-->
