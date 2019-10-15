@@ -20,7 +20,7 @@ Solar energy conversion is a field containing systems thinking, applied science,
 
 ## Solar Ecology in Brief
 
-For over 10,000 years, **the story of solar has been the story of society**.  Re-configuring the boundaries of energy conversion for the entangled present, solar ecology affects and is affecting our naturecultures as *farming*. Solar ecology is farming. Solar Ecology offers the tools of *energy exploration* and local enrichment, within which "light" is the dominant vehicle for change. Solar energy, measured as light, must be addressed as a transformative, transdisciplinary framework for survival and adaptive design and planning. There are new and old opportunities to be accessed in our own locales, our local regimes of natureculture, community, sense of place. 
+For over 10,000 years, **the story of solar has been the story of society**. | Re-configuring the boundaries of energy conversion for the entangled present, solar ecology affects and is affecting our naturecultures as *farming*. Solar ecology is farming. Solar Ecology offers the tools of *energy exploration* and local enrichment, within which "light" is the dominant vehicle for change. Solar energy, measured as light, must be addressed as a transformative, transdisciplinary framework for survival and adaptive design and planning. There are new and old opportunities to be accessed in our own locales, our local regimes of natureculture, community, sense of place. 
 
 Solar Ecology emerges today as a web sustainable adaption planning given a climate changed by 2100. The `solar ecology` framework has emerged as a new school of thought for research and design at the interface of light, society, and our supporting ecosystems.
 
@@ -84,3 +84,6 @@ Follow the links to download electronic undergraduate Honors theses!
 * **Ms. Katherine Nicol** Energy Engineering, Penn State University. [Deposition and Patterning of CZTS as a Light Absorbing Material for Solar Applications](https://honors.libraries.psu.edu/catalog/14085), BS Honors, Spring 2012.
 * **Mr. Jonathan Perez-Blanco** Mechanical Engineering [Conventional and Green Roof Albedo Measurement and Analysis for Roof-Mounted Photovoltaic Applications](http://honors.libraries.psu.edu/theses/approved/WorldWideIndex/EHT-212/index.html), BS Honors, Spring 2010.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTgyMDIyOTk2XX0=
+-->
