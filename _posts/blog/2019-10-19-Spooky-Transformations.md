@@ -6,7 +6,7 @@ categories: blog
 tags: [BFSC, transformation, feminist, anticolonial]
 image:
   feature:
-date: 2019-10-19T09:53:50-04:00
+date: 2019-10-18T08:00:00-04:00
 comments: true
 share: true
 ---
