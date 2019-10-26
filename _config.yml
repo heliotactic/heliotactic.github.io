@@ -1,15 +1,37 @@
 <<<<<<< HEAD
-# Site wide configuration
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+# remote_theme: mmistakes/so-simple-theme
+theme: jekyll-theme-so-simple
+
+# Site wide configuration
 title: Heliotactic Press
 locale: en_US
+
 description:  "Solar Prof, Queer Trans Artist, Budding Photon Wrangler | Solar Ecology my framework | Group Agency my medium | kava my bev | Paris my retreat | They/Them/Theirs pronouns | 
 Sustainabilty - Performativity - Quantum Field Theory - Solidarity"
 logo:  Sunpath_41_N-1.png # eitplume_SOHO_Sun_mod.png # 
 search: true
 url: "//heliotactic.github.io"
+date_format: "%y %b %d" # "originally %B %-d, %Y" 
+
 
 # Jekyll configuration
+
 
 permalink:   /:categories/:title/
 markdown:    kramdown
@@ -28,17 +50,22 @@ kramdown:
   toc_levels: 1..2
   enable_coderay: false
 
-mathjax: true
-
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 
-# Octopress
-
 # Default extensions
 post_ext: md
 page_ext: md
+
+mathjax: true
+
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
 
 # Default templates for posts and pages
 # Found in _templates/
@@ -46,7 +73,7 @@ post_layout: post
 page_layout: page
 
 # Format titles with titlecase?
-titlecase: true
+titlecase: false
 
 # Change default template file (in _templates/)
 post_template: post
@@ -78,48 +105,21 @@ owner:
   #  ad-slot:
   # bing-verify:
 
- 
-
+ plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
 
 <<<<<<< HEAD
 =======
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-theme: jekyll-theme-so-simple
-# remote_theme: mmistakes/so-simple-theme
-locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
-date_format: "%B %-d, %Y"
+
+
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
-mathjax: # MathJax equations, e.g. true
-google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
+
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
-twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -154,11 +154,7 @@ search_full_content: false # can have performance implications for large sites
 #   - vendor/gems/
 #   - vendor/ruby/
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
+
 
 # Front Matter Defaults
 defaults:
@@ -170,16 +166,7 @@ defaults:
       layout: post
       share: true
 
-# Site Author
-author:
-  name:
-  picture:
-  email:
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
+
 
 # Footer Links
 footer_links:
@@ -189,5 +176,4 @@ footer_links:
 >>>>>>> d3f4d81c1d3038fb6f619f520239d54d656d5604
 =======
 
-theme: jekyll-theme-cayman
 >>>>>>> 36ccae8831c401e221791be3f89b47637c61e192

@@ -1,17 +1,18 @@
 <<<<<<< HEAD
 # Authors
 
-Heliotactic:
-  name: Jeffrey R. S. Brownson
-  web: http://www.eme.psu.edu/faculty/brownson
-  email: solarpower@psu.edu
-  bio: "Dr. Jeffrey Brownson is Associate Professor of 
-  Energy & Mineral Engineering, and courtesy faculty of Materials Science & Engineering."
-  avatar: Brownson.jpg
-  twitter: Heliotactic
-#  google: 
-#    plus: nanomech
-
+Heliotactic: name: Frey Brownson, PhD web:
+http://www.eme.psu.edu/faculty/brownson email: heliotactic@gmail.com bio: 
+"Jeffrey (Frey) Brownson, PhD is a queer solar expert, visual
+artist, Assoc. Prof. of Energy Engineering at Penn State, and industry
+consultant. As one of only five solar engineering faculty in the entire nation,
+Dr. Brownson has tackled social and physical change within large institutions
+like Penn State and multi-institutional entities such as the Commonwealth of
+Pennsylvania." 
+avatar: Brownson.jpg 
+twitter: Heliotactic 
+#  google:  
+#    plus:
 # cornelius_fiddlebone:
 #   name: Cornelius Fiddlebone
 #   email: cornelius@thewhip.com
@@ -21,20 +22,5 @@ Heliotactic:
 #   google:
 #     plus: CorneliusFiddlebone
 =======
-# Sample Authors
-# Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
-  links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
 >>>>>>> d3f4d81c1d3038fb6f619f520239d54d656d5604
