@@ -7,7 +7,7 @@ description:  "Solar Prof, Queer Trans Artist, Budding Photon Wrangler | Solar E
 Sustainabilty - Performativity - Quantum Field Theory - Solidarity"
 logo:  Sunpath_41_N-1.png # eitplume_SOHO_Sun_mod.png # 
 search: true
-url: http://heliotactic.github.io
+url: "//heliotactic.github.io"
 
 # Jekyll configuration
 
@@ -61,11 +61,11 @@ owner:
   email: solarpower@psu.edu
   disqus-shortname: heliotactic
   twitter: Heliotactic
-#  facebook: #username
   github: Heliotactic
-  # stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: Heliotactic
   instagram: Heliotactic
+  #  facebook: #username
+  # stackexchange: #http://stackoverflow.com/users/123456/username
   # flickr: #username
   # tumblr: #username
   # pinterest: #username
@@ -81,6 +81,7 @@ owner:
  
 
 
+<<<<<<< HEAD
 =======
 # Welcome to Jekyll!
 #
@@ -186,3 +187,7 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 >>>>>>> d3f4d81c1d3038fb6f619f520239d54d656d5604
+=======
+
+theme: jekyll-theme-cayman
+>>>>>>> 36ccae8831c401e221791be3f89b47637c61e192
