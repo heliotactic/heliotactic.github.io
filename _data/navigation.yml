@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site navigation links
 
 - title: About
@@ -20,3 +21,21 @@
 
 - title: Search
   url: /search/
+=======
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+# - title: Posts
+#   url: /posts/
+# - title: Categories
+#   url: /categories/
+# - title: Tags
+#   url: /tags/
+# - title: Recipes
+#   url: /recipes/
+# - title: Search
+#   url: /search/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
+>>>>>>> d3f4d81c1d3038fb6f619f520239d54d656d5604

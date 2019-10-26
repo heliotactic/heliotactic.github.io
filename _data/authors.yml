@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Authors
 
 Heliotactic:
@@ -19,3 +20,21 @@ Heliotactic:
 #   twitter: rhymeswithsackit
 #   google:
 #     plus: CorneliusFiddlebone
+=======
+# Sample Authors
+# Remove file or replace with your own
+
+Billy Rick:
+  name: Billy Rick
+  picture: /images/bio-photo-2.jpg
+  twitter: "@billyrick"
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square
+
+Cornelius Fiddlebone:
+  name: Cornelius Fiddlebone
+  picture: /images/bio-photo.jpg
+  twitter: corneliusfiddlebone
+>>>>>>> d3f4d81c1d3038fb6f619f520239d54d656d5604
