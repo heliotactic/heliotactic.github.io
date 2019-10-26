@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collborative Transformations: letter from a spooky ghost 
+title: "Collborative Transformations: letter from a spooky ghost"
 modified:
 categories: blog
 tags: [BFSC, transformation, feminist, anticolonial]
