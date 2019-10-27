@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jeffrey R. S. Brownson, PhD"
-excerpt: "Dr. Brownson’s work through the Solar Collaborative at Penn State emerges as an archive of diffraction experiments through stakeholders, spacetimemattering, and following disruptive changes in our world. They study solar resource assessment/economics, photovoltaic materials, and systems performance for photovoltaics and buildings. A non-binary person in STEM and the arts, they participated in the DoE SunShot initiative "Finding Pennsylvania's Solar Future", the DoE SunShot Initiative for Solar Forecasting, the DoE Energy Efficient Buildings Hub in PA, and served as faculty lead in the DoE Solar Decathlon 2009. Brownson has engaged their solar community as a member of the Board of Directors for the American Solar Energy Society from 2013-2016, advocating the critical importance of our young professionals in the health and future of the solar industry."
+excerpt: "Dr. Brownson works with colleagues, students, and community members to explore the school of thought in solar energy called Solar Ecology."
 image:
   path: 'images/'
   feature: Family_chucks_2015.png
@@ -9,7 +9,7 @@ image:
   #creditlink: 
 ---
 
-Dr. Brownson works with colleagues, students, and community members to explore the school of thought in solar energy called `Solar Ecology`.  
+Frey Brownson’s work through the Solar Collaborative at Penn State emerges as an archive of diffraction experiments through stakeholders, spacetimemattering, and following disruptive changes in our world. They study solar resource assessment/economics, photovoltaic materials, and systems performance for photovoltaics and buildings. A non-binary person in STEM and the arts, they participated in the DoE SunShot initiative "Finding Pennsylvania's Solar Future", the DoE SunShot Initiative for Solar Forecasting, the DoE Energy Efficient Buildings Hub in PA, and served as faculty lead in the DoE Solar Decathlon 2009. Brownson has engaged their solar community as a member of the Board of Directors for the American Solar Energy Society from 2013-2016, advocating the critical importance of our young professionals in the health and future of the solar industry.  
 
 * Table of Contents
 {:toc}
