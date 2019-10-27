@@ -5,8 +5,7 @@ excerpt: "Helio-Tactics and Seeds of Disruption: The Revolution will not be tele
 image:
   path: /images/NorthPorch_SC_2016.png
   credit: JRS Brownson
-  #creditlink: 
-search_omit: true
+
 ---
 
 <ul class="post-list">

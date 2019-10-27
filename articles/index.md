@@ -2,7 +2,7 @@
 layout: page
 title: Diffraction Experiments - attending to light and entanglements of measure and values
 excerpt: "Archive of entangled thinking sorted by date."
-search_omit: true
+
 ---
 
 <ul class="post-list">

@@ -6,7 +6,7 @@ modified: 2016-06-12T09:53-04:00
 image:
   path: /images/NorthPorch_SC_2016.png
   credit: JRS Brownson
-  #creditlink: 
+
 ---
 
 * Table of Contents
