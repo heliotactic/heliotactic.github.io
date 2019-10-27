@@ -1,21 +1,8 @@
 ---
-layout: page
-title: Latest Posts
+layout: home
 excerpt: "Heliotactic Press: Perspectives on Solar Ecology"
-search_omit: true
-regenerate: true
-modified: 2019-10-26
-image:
-  path: /images/Family_chucks_2015.png
-  credit: Frey Brownson
-  
+show_excerpts: true
+paginate: true
+entries_layout: list
+
 ---
-
-<meta name="p:domain_verify" content="670504890b1f88e2238ea06ea14b3651"/>
-
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
-
