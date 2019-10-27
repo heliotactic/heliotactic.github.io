@@ -4,8 +4,8 @@ title: "Jeffrey R. S. Brownson, PhD"
 excerpt: "Dr. Brownson works with colleagues, students, and community members to explore the school of thought in solar energy called Solar Ecology."
 image:
   path: '/images/Family_chucks_2015.png'
-  credit: JRS Brownson
-  #creditlink: 
+  credit: Frey Brownson
+  
 ---
 
 Frey Brownson’s work through the Solar Collaborative at Penn State emerges as an archive of diffraction experiments through stakeholders, spacetimemattering, and following disruptive changes in our world. They study solar resource assessment/economics, photovoltaic materials, and systems performance for photovoltaics and buildings. A non-binary person in STEM and the arts, they participated in the DoE SunShot initiative "Finding Pennsylvania's Solar Future", the DoE SunShot Initiative for Solar Forecasting, the DoE Energy Efficient Buildings Hub in PA, and served as faculty lead in the DoE Solar Decathlon 2009. Brownson has engaged their solar community as a member of the Board of Directors for the American Solar Energy Society from 2013-2016, advocating the critical importance of our young professionals in the health and future of the solar industry.  
@@ -13,13 +13,9 @@ Frey Brownson’s work through the Solar Collaborative at Penn State emerges as 
 * Table of Contents
 {:toc}
 
-## Context for Solar
-
-Solar energy conversion is a field containing systems thinking, applied science, and engineering; there are a lot of linked components in the system to keep track of in the design, implementation, and maintenance processes. To design technologies relevant to each region requires knowledge of the social context, the energy demands and economic constraints of a client or stakeholders, as well as knowledge of the specific locale or region, considering the quantity and character of the solar resource. 
-
 ## Solar Ecology in Brief
 
-For over 10,000 years, **the story of solar has been the story of society**. | Re-configuring the boundaries of energy conversion for the entangled present, solar ecology affects and is affecting our naturecultures as *farming*. Solar ecology is farming. Solar Ecology offers the tools of *energy exploration* and local enrichment, within which "light" is the dominant vehicle for change. Solar energy, measured as light, must be addressed as a transformative, transdisciplinary framework for survival and adaptive design and planning. There are new and old opportunities to be accessed in our own locales, our local regimes of natureculture, community, sense of place. 
+For over 10,000 years, **the story of solar has been the story of society**. Re-configuring the boundaries of energy conversion for the entangled present, solar ecology affects and is affecting our naturecultures as *farming*. Solar ecology is farming. Solar Ecology offers the tools of *energy exploration* and local enrichment, within which "light" is the dominant vehicle for change. Solar energy, measured as light, must be addressed as a transformative, transdisciplinary framework for survival and adaptive design and planning. There are new and old opportunities to be accessed in our own locales, our local regimes of natureculture, community, sense of place. 
 
 Solar Ecology emerges today as a web sustainable adaption planning given a climate changed by 2100. The `solar ecology` framework has emerged as a new school of thought for research and design at the interface of light, society, and our supporting ecosystems.
 
@@ -45,9 +41,7 @@ More Info: [www.energy.psu.edu/solarchallenge](http://www.energy.psu.edu/solarch
 
 -->
 
-## Brownson Research Overview
-
-Dr. Jeffrey R. S. Brownson’s contributions to renewable energy and society emerges in their creative works as the innovation of two frameworks guiding research and design for solar energy: 1) `solar ecology`: the solar science found in the systemic interactions of humans and biota and the surrounding environments, derived from the locale and dynamic flow of solar energy at Earth’s surface, and 2) `solar utility`: client/stakeholder preference for solar goods and services associated with the Goal of Solar Design and context-dependent constraints (`locale`) for solar energy conversion system projects.
+## Research Overview
 
 Solar Ecology practices require stakeholders to explore and engage new topologies of relational ontologies, epistemology, and ethics according to the new measures and valuation of light. The processes  of measuring and valuation include attending to solar resource supply and use, systems design, distribution needs, predictive economic models for a fluctuating resource, and involve planning to address transient cycles and social adoption. Contextual knowledge of constraints from the local solar resource, local energy costs, and local policy (termed `locale` by Brownson) informs the research and design process to integrate solar energy conversion systems within building systems, with respect to community planning, and within the interconnection of distributed photovoltaic power generation across broad regions. Underpinning the language of solar energy conversion design for the solar energy engineer, architect, or economist is the `Goal of Solar Design`: to seek out and attend to the `solar utility` of the light-land-community resources for your `stakeholders`, within the dynamic phenomenon of a given `locale`. `Solar utility` is used as a vehicle aiding project development—describing client/stakeholders' preference for `solar goods and services`, fit within the dynamic perspective of the `locale`. This goal and framework has enabled Dr. Brownson to cultivate new solar project design skills in emerging professionals across disciplines of engineering, business, and meteorology. Dr. Brownson’s research confirms that locale defines the intermittency and strength of the resource as well as the behavioral choices for local communities, which affects the choice of materials, the necessary aggregation of energy technologies, the design and installation of the collector equipment, and the integrative optimization of system performance for the highest solar utility to clients or stakeholders.
 
