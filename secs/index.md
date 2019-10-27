@@ -4,6 +4,7 @@ title: Solar Energy Conversion Systems
 excerpt: "Textbook for multidisciplinary solar education"
 modified: 2016-06-12T09:53-04:00
 image:
+  path: 'images/'
   feature: NorthPorch_SC_2016.png
   credit: JRS Brownson
   #creditlink: 

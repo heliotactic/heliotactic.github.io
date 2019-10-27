@@ -4,6 +4,7 @@ title: The Solar Genome Project
 excerpt: ""
 modified: 2017-06-09T15:12-04:00
 image:
+  path: 'images/'
   feature: NorthPorch_SC_2016.png
   credit: JRS Brownson
   #creditlink: 
