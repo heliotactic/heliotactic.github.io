@@ -1,7 +1,16 @@
-# Site wide configuration
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-so-simple
 locale: en_US
-title: Heliotactic Press
+title: "Heliotactic Press"
 description: "Solar Prof, Queer Trans Artist, Budding Photon Wrangler | Solar Ecology my framework | Group Agency my medium | kava my bev | Paris my retreat | They/Them/Theirs pronouns | 
 Sustainabilty - Performativity - Quantum Field Theory - Solidarity"
 baseurl: /blog
@@ -22,25 +31,22 @@ disqus:
  twitter: 
   username: Heliotactic
 
-search: true
+# Search
+search_full_content: false # can have performance implications for large sites
 
 # Liquid
 liquid:
   error_mode: strict
 
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
 
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
 plugins:
   - jekyll-seo-tag
@@ -65,9 +71,6 @@ defaults:
       layout: post
       share: true
 
-# Default extensions
-post_ext: md
-page_ext: md
 
 # Default templates for posts and pages
 # Found in _templates/
@@ -93,19 +96,7 @@ owner:
   github: Heliotactic
   linkedin: Heliotactic
   instagram: Heliotactic
-  #  facebook: #username
   # stackexchange: #http://stackoverflow.com/users/123456/username
-  # flickr: #username
-  # tumblr: #username
-  # pinterest: #username
-  # weibo: #userid
-  #google: 
-  #  plus: nanomech
-  #  analytics:
-  #  verify:
-  #  ad-client:
-  #  ad-slot:
-  # bing-verify:
 
 
 
