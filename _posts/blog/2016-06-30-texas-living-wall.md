@@ -4,7 +4,7 @@ title: Solar Ecology and Living Walls
 date: 2016-06-30T10:24:48-04:00
 modified:
 categories: blog
-excerpt: A quick share for you on solar ecology implemented as design for the built environment from UT-Austin's School of Architecture. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. Here, students and faculty collaborated to implement a vertical "living wall".
+excerpt: "A quick share for you on solar ecology implemented as design for the built environment from UT-Austin's School of Architecture. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. Here, students and faculty collaborated to implement a vertical living wall."
 tags: [solar ecology, living wall, architecture]
 comments: true
 share: true

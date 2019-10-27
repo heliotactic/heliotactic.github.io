@@ -7,8 +7,7 @@ categories: blog
 excerpt: Solar ecology is meant to be a systems framework to engage in both discovery and design of the space of the sun, the light from the sun interacting with the earth, with the environment, with the solar technologies that we create and use, the solar technologies that we adapt for food, and the solar technologies that we live in. It is an exploration of patterns of the flow of light from the sun within the dynamic context of the place where we live and act out our lives.
 tags: [solar, solar ecology, society, Sustainability Institute]
 image:
-  path: 'images/'
-  feature: Jul2016_Patton_TWP_Path.png
+  path: /images/Jul2016_Patton_TWP_Path.png
   credit: J. R. S. Brownson
 comments: true
 share: true

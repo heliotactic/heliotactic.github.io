@@ -15,7 +15,7 @@ description: "Solar Prof, Queer Trans Artist, Budding Photon Wrangler | Solar Ec
 Sustainabilty - Performativity - Quantum Field Theory - Solidarity"
 #baseurl: /blog
 url: "//heliotactic.github.io"
-logo:  Sunpath_41_N-1.png # eitplume_SOHO_Sun_mod.png # 
+logo:  /images/Sunpath_41_N-1.png # eitplume_SOHO_Sun_mod.png # 
 date_format: "%Y %B %d" # "originally %B %-d, %Y" 
 read_time: true
 words_per_minute: 200
