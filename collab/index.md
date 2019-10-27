@@ -9,8 +9,6 @@ image:
   
 ---
 
-* Table of Contents
-{:toc}
 
 ## Bio 
 

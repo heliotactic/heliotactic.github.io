@@ -1,18 +1,12 @@
 ---
-layout: page
+layout: home
 title: Solar Ecology Portfolio
 excerpt: "What is happening in the world of Solar Ecology."
 modified: 2016-06-09
-#image:
-#  feature: so-simple-sample-image-6.jpg
-#  credit: WeGraphics
-#  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-#pack/
+
 ---
 
 Because solar ecology withnergy is photovoltaics is farming, and so much more...
-
-* Table of Contents
-{:toc}
 
 ## What is Solar Ecology?
 

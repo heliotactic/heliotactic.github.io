@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Solar Energy Conversion Systems
 excerpt: "Textbook for multidisciplinary solar education"
 modified: 2016-06-12T09:53-04:00
@@ -8,9 +8,6 @@ image:
   credit: JRS Brownson
 
 ---
-
-* Table of Contents
-{:toc}
 
 ## Author
 

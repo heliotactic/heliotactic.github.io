@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: The Solar Genome Project
 excerpt: ""
 modified: 2017-06-09T15:12-04:00
