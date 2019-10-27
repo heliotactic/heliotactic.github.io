@@ -2,6 +2,7 @@
 layout: page
 title: "Jeffrey R. S. Brownson, PhD"
 excerpt: "Dr. Brownson works with colleagues, students, and community members to explore the school of thought in solar energy called Solar Ecology."
+regenerate: true
 image:
   path: '/images/Family_chucks_2015.png'
   credit: Frey Brownson
