@@ -51,7 +51,7 @@ paginate_path: /page:num/
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-#  - jekyll-feed
+  - jekyll-feed
 
 # Front Matter Defaults
 defaults:
