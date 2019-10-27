@@ -16,7 +16,7 @@ Sustainabilty - Performativity - Quantum Field Theory - Solidarity"
 #baseurl: /blog
 url: "//heliotactic.github.io"
 logo:  '/images/Sunpath_41_N-1.png' # eitplume_SOHO_Sun_mod.png # 
-date_format: "%Y %B %d" # "originally %B %-d, %Y" 
+date_format: "%-d %B %Y" # "originally %B %-d, %Y" 
 read_time: true
 words_per_minute: 200
 mathjax: true
