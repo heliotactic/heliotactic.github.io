@@ -4,10 +4,8 @@ title: Gnomon's Land
 date: 2016-06-20T15:48:42-04:00
 modified:
 categories: blog
-excerpt: Sometimes it can help to tell the local time it is using the Sun. The relative behavior of the Sun and the tilted Earth over the cycle of the year defines our Solstices and Equinoxes, and the transit of the Sun across the surface of Earth each hour defines our Standard Meridians, while the arc of the Sun across our sky dome conveys time at the local level. If we apply the technology of a gnomon and apply our local solar vernacular to read the shadows, voila, we have a solar clock!
+excerpt: "Sometimes it can help to tell the local time it is using the Sun. The relative behavior of the Sun and the tilted Earth over the cycle of the year defines our Solstices and Equinoxes, and the transit of the Sun across the surface of Earth each hour defines our Standard Meridians, while the arc of the Sun across our sky dome conveys time at the local level. If we apply the technology of a gnomon and apply our local solar vernacular to read the shadows, voila, we have a solar clock!"
 tags: [solar, time, gnomon, longitude, solstice]
-image:
-  feature:
 comments: true
 share: true
 ---

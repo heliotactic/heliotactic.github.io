@@ -7,8 +7,6 @@ description: "An exploration of why this site chooses to follow the sun, and str
 modified:
 excerpt: "Just think of the words `light`, `energy`, and `solar`, and you have inherent perceived meanings for each that are currently shifting quickly in today's society of climate changing, wireless communications, and localized electric power systems..."
 tags: [heliotactic, heliotropic, solar vernacular, etymology, brownson]
-#image:
-#  feature:
 comments: true
 share: true
 ---

@@ -67,8 +67,8 @@ defaults:
 # Site Author
 Author:
   name: Frey Brownson, PhD
-  picture: Brownson.jpg
-  email: solarpower@psu.edu
+  picture: 'images/Brownson.jpg'
+  email: heliotactic@gmail.com
   disqus-shortname: heliotactic
   twitter: Heliotactic
   github: Heliotactic

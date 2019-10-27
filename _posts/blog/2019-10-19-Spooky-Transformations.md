@@ -4,8 +4,6 @@ title: "Collaborative Transformations: letter from a spooky ghost"
 modified:
 categories: blog
 tags: [BFSC, transformation, feminist, anticolonial]
-image:
-  feature:
 date: 2019-10-18T08:00:00-04:00
 comments: true
 share: true
