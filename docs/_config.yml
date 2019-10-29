@@ -1,0 +1,142 @@
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+theme: jekyll-theme-so-simple
+locale: en_US
+title: "Heliotactic Press"
+description: "Solar Prof, Queer Trans Artist, Budding Photon Wrangler | Solar Ecology my framework | Group Agency my medium | kava my bev | Paris my retreat | They/Them/Theirs pronouns | 
+Sustainabilty - Performativity - Quantum Field Theory - Solidarity"
+#baseurl: /blog
+url: "//heliotactic.github.io"
+logo:  '/images/Sunpath_41_N-1.png' # eitplume_SOHO_Sun_mod.png # 
+date_format: "%-d %B %Y" # "originally %B %-d, %Y" 
+read_time: true
+words_per_minute: 200
+mathjax: true
+
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+disqus:
+  shortname: heliotactic
+twitter: 
+  username: Heliotactic
+
+# Search
+search_full_content: false # can have performance implications for large sites
+
+# Liquid
+liquid:
+  error_mode: strict
+
+# Creating my collections
+collections:
+  - collab
+  - consult
+  - diffract
+  - resources
+
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 3
+paginate_path: /page:num/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+
+
+# Collections
+collections:
+  collab:
+    output: true
+    permalink: /:collection/:path/
+  consult:
+    output: true
+    permalink: /:collection/:path/
+  diffract:
+    output: true
+    permalink: /:collection/:path/
+  resource:
+    output: true
+    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Collab defaults
+  - scope:
+      path: "_collab"
+    values:
+      layout: collection
+      entries_layout: grid
+      comments: true
+      share: true
+  # Consult defaults
+  - scope:
+      path: "_consult"
+    values:
+      layout: collection
+      entries_layout: list
+      comments: true
+      share: true
+  # Diffract defaults
+  - scope:
+      path: "_diffract"
+    values:
+      layout: collection
+      entries_layout: list
+      comments: true
+      share: true
+  # Resource defaults
+  - scope:
+      path: "_resource"
+    values:
+      layout: collection
+      entries_layout: list
+      comments: true
+      share: true
+
+# Site Author
+Author:
+  name: Frey Brownson, PhD
+  picture: 'images/Brownson.jpg'
+  email: heliotactic@gmail.com
+  disqus-shortname: heliotactic
+  twitter: Heliotactic
+  github: Heliotactic
+  linkedin: Heliotactic
+  instagram: Heliotactic
+  links:
+    - title:
+      url:
+      icon:
+
+# Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+
