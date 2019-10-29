@@ -38,6 +38,13 @@ search_full_content: false # can have performance implications for large sites
 liquid:
   error_mode: strict
 
+# Creating my collections
+collections:
+  - collab
+  - consult
+  - diffract
+  - resources
+
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
@@ -53,16 +60,64 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
 
+
+# Collections
+collections:
+  collab:
+    output: true
+    permalink: /:collection/:path/
+  consult:
+    output: true
+    permalink: /:collection/:path/
+  diffract:
+    output: true
+    permalink: /:collection/:path/
+  resource:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
-# Posts defaults
-- scope:
-    path: "_posts"
-    type: posts
-  values:
-    layout: post
-    share: true
-
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Collab defaults
+  - scope:
+      path: "_collab"
+    values:
+      layout: collection
+      entries_layout: grid
+      comments: true
+      share: true
+  # Consult defaults
+  - scope:
+      path: "_consult"
+    values:
+      layout: collection
+      entries_layout: list
+      comments: true
+      share: true
+  # Diffract defaults
+  - scope:
+      path: "_diffract"
+    values:
+      layout: collection
+      entries_layout: list
+      comments: true
+      share: true
+  # Resource defaults
+  - scope:
+      path: "_resource"
+    values:
+      layout: collection
+      entries_layout: list
+      comments: true
+      share: true
 
 # Site Author
 Author:

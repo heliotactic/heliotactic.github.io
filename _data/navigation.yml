@@ -1,22 +1,24 @@
 # Site navigation links
 
-- title: Solar Collab
-  url: /collab/
+# Block describing the Solar Collaborative
+- title: About
+  url: /collab/ 
 
-- title: The Category Is...
-  url: /diffract/
-
-- title: Queering Solar Blog
+# Queering Solar Blogging
+- title: Queering Solar - Blog
   url: /blog/
 
-- title: Solar Ecology Explored
-  url: /portfolio/
+# Basic Solar Ecology Practices
+- title: Solar Ecology
+  url: /resource/
 
-- title: Solar Genome Project
-  url: /SGP/ 
+# What do we know about Material Discursive Praxis?
+- title: Brownson Art
+  url: /diffract/
 
-- title: 2013 Text Book
-  url: /secs/ 
+- title: Heliotactic Press Consulting
+  url: /consult/
 
-- title: Search
-  url: /search/
+# - title: Search
+#   url: /search/
+
