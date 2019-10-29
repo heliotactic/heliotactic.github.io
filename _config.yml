@@ -8,6 +8,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 theme: jekyll-theme-so-simple
 locale: en_US
 title: "Heliotactic Press"
@@ -22,6 +23,9 @@ date_format: "%-d %B %Y" # "originally %B %-d, %Y"
 read_time: true
 words_per_minute: 200
 mathjax: true
+
+encoding: UTF-8
+
 
 google_fonts:
   - name: "Source Sans Pro"
