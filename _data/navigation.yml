@@ -1,8 +1,8 @@
 # Site navigation links
 
 # Block describing the Solar Collaborative
-- title: Home
-  url: /
+# - title: Home
+#   url: /
 
 - title: About
   url: /collab/ 
