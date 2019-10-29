@@ -37,9 +37,6 @@ disqus:
 twitter: 
   username: Heliotactic
 
-# Search
-search_full_content: false # can have performance implications for large sites
-
 # Liquid
 liquid:
   error_mode: strict
@@ -58,14 +55,17 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 3
-paginate_path: /page:num/
+# paginate: 3
+# paginate_path: /page:num/
 
+# Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-feed
 
+# Search
+search_full_content: false # can have performance implications for large sites
 
 # Collections
 collections:
@@ -146,3 +146,4 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
+skin: "/assets/css/skins/default.css"
