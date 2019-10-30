@@ -9,7 +9,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-theme-so-simple
+#theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme"
 locale: en_US
 title: "Heliotactic Press"
 description: "Solar Prof, Queer Trans Artist, Budding Photon Wrangler | 
@@ -40,13 +41,6 @@ twitter:
 # Liquid
 liquid:
   error_mode: strict
-
-# Creating my collections
-collections:
-  - collab
-  - consult
-  - diffract
-  - resources
 
 # Build settings
 permalink: /:categories/:title/
