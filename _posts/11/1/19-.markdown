@@ -1,7 +1,0 @@
----
-title: 
-date: 2019-11-01T10:23:20-04:00
-author: Frey
-layout: post
----
-
