@@ -1,6 +1,4 @@
 ---
-layout: post
-categories: blog
 date: 2016-07-19T11:16:00-04:00
 modified: 2019-11-09T08:08:00-5:00
 
@@ -63,7 +61,7 @@ You can find the original article at the <a href="http://sustainability.psu.edu/
 
 > **JB**: Part of that is that is looking at these fuels as  <a href="https://www.e-education.psu.edu/eme801/node/484" target="_blank">*commodities*</a>. Natural gas right now isn't a global commodity.  <a href="https://www.e-education.psu.edu/eme801/node/474" target="_blank">You can't ship natural gas very easily.</a>  It has to be put through compression processes and liquefied.  The main way you ship natural gas is through pipelines. That's a physical constraint to fuel access.
 > 
->If you counter that with solar, solar photovoltaics in particular for electricity generation, then you can put them anywhere. The modules themselves, the panels, are  <a href="http://heliotactic.github.io/articles/sipv-howto/" target="_blank">made and sold as a global commodity just as barrels of oil are.</a> Their price keeps dropping as more photovoltaic panels are deployed on the planet. There are niche areas on the planet right now that need electricity and there's no natural gas pipeline and no grid to provide electricity from coal or nuclear plants.
+>If you counter that with solar, solar photovoltaics in particular for electricity generation, then you can put them anywhere. The modules themselves, the panels, are  <a href="http://heliotactic.github.io/blog/sipv-howto/" target="_blank">made and sold as a global commodity just as barrels of oil are.</a> Their price keeps dropping as more photovoltaic panels are deployed on the planet. There are niche areas on the planet right now that need electricity and there's no natural gas pipeline and no grid to provide electricity from coal or nuclear plants.
 
 **PB**: Like much of Africa, Asia, and South America.
 

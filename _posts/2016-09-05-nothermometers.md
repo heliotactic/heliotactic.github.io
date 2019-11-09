@@ -1,6 +1,4 @@
 ---
-layout: post
-categories: blog
 date: 2016-08-14T13:50:35-04:00
 modified: 2016-09-05T12:40:05-04:00
 
