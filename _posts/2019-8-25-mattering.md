@@ -1,15 +1,10 @@
 ---
-layout: post
-categories: blog
 date: 2019-08-25T8:19:59-04:00
 modified:
 
 title: "On Mattering"
 tags: [cuts, exclusions, margins, mattering, ontology]
 excerpt: We measure what we value. We value what we measure.
-
-comments: true
-share: true
 ---
 
 # On Mattering: Cycles of Behavior, Standards / Values, Attitudes, and Perceptions

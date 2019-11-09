@@ -8,9 +8,6 @@ excerpt: This is my world, the world of solar energy--where there is no public v
 image:
   path: /images/HoneyWell.png 
   credit: WikiMedia Commons CC BY 2.0 (Flickr user:midnightcomm)
-
-comments: true
-share: true
 ---
 
 ## Highway to the Shadowy Tip of Reality
