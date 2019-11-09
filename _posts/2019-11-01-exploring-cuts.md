@@ -1,8 +1,13 @@
 ---
-title: Attending to Diffractive Cuts
-excerpt: Diffraction attends to cuts, apprehends traces of possibilities and agencies. Diffraction is the phenomenon that knits together complementary storytellings.
-tags: [solar, solar ecology, technology]
+layout: post
+categories: blog
 date: 2019-11-01T09:50:50-04:00
+modified:
+
+title: "Attending to Diffractive Cuts"
+tags: [transformation, diffraction, cuts]
+excerpt: The "cut" in media (e.g. film an audio) really captures the uses of the word as physical action to (re)configure a story and to archive something different. And so, I am making a short list for this post of terms in media editing as homologies for cuts in our STEM practices of Solar Ecology emergence.
+
 comments: true
 share: true
 ---

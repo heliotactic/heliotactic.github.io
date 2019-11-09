@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Collaborative Transformations: letter from a spooky ghost"
-modified:
 categories: blog
-tags: [BFSC, transformation, feminist, anticolonial]
 date: 2019-10-18T08:00:00-04:00
+modified:
+
+title: "Collaborative Transformations: letter from a spooky ghost"
+tags: [BFSC, transformation, feminist, anticolonial]
+excerpt: These new posts are explorations of the small, ordinary affects in the life of a queer scholar who works among STEM and STEAM (Science, Technology, Engineering, (arts), Mathematics) communities.
+
 comments: true
 share: true
 ---
