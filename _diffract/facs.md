@@ -1,7 +1,14 @@
 ---
-title: Just the FACS
 layout: category
+
+title: Just the FACS
+tags:
 excerpt: "(Re)configuring STEM to STEAM through feminist and anticolonial praxis"
+image:
+  path:
+
+comments: true
+share: true
 ---
 
 # Feminist Anti-Colonial STEAM
