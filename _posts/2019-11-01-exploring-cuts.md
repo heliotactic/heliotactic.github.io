@@ -23,7 +23,7 @@ The "cut" in media (e.g. film an audio) really captures the uses of the word as 
 
 
 ``` 
-VM = a|apparatus> + b|mixer>.
+        VM = a|apparatus> + b|mixer>.
 ```
 
 * **Non-Linear Editing (NLE)** systems are phyicsal  workstations and their users who perform collective, aggregation of non-destructive editing on source materials. The cuts from NLE generate new traces as metadata of timestamp, source, length, entry point, exit point, user ID.  These fingerprints adhere to the saved clip as new sedimentations of determinate worlding. 

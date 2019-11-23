@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Complementary Storytellings of Haunts and Realness"
-modified:
-categories: blog
-tags: [homology, hauntology]
 date: 2019-11-23T10:30:00-05:00
-comments: true
-share: true
+modified:
+
+title: "Complementary Storytellings of Haunts and Realness"
+tags: [[homology, hauntology, cuts]
+excerpt: Funky little mechanics
+tinker away 
+at the apparatus
+determining superpositions
+through topological 
+spacetimemattering 
 ---
 
 Funky little mechanics
@@ -17,7 +20,7 @@ through topological
 spacetimemattering 
 
 Sound and Vision composited through
-spacetimematter, knitted togeter
+spacetimematter, knitted together
 complementary storytellings
 
 cut to driving home to work
