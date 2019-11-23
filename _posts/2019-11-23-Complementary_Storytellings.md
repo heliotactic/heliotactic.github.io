@@ -5,10 +5,9 @@ modified:
 title: "Complementary Storytellings of Haunts and Realness"
 tags: [homology, hauntology, cuts]
 excerpt: Funky little mechanics tinker away at the apparatus
-determining superpositions through topological spacetimemattering 
 ---
 
-# Complementary Storytellings of Haunts and Realness
+# Ontology and Hauntology
 
 Funky little mechanics  
 tinker away  
@@ -18,7 +17,7 @@ through topological
 spacetimemattering
 
 Sound and Vision composited through  
-spacetimematter, knitted together  
+spacetimematter, knit together  
 complementary storytellings
 
 cut to driving home to work  
