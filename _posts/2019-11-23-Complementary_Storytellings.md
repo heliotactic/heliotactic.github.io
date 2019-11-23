@@ -3,13 +3,9 @@ date: 2019-11-23T10:30:00-05:00
 modified:
 
 title: "Complementary Storytellings of Haunts and Realness"
-tags: [[homology, hauntology, cuts]
-excerpt: Funky little mechanics
-tinker away 
-at the apparatus
-determining superpositions
-through topological 
-spacetimemattering 
+tags: [homology, hauntology, cuts]
+excerpt: Funky little mechanics tinker away at the apparatus
+determining superpositions through topological spacetimemattering 
 ---
 
 Funky little mechanics
