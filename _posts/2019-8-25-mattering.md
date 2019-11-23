@@ -1,16 +1,10 @@
 ---
-layout: post
-title: On Mattering
 date: 2019-08-25T8:19:59-04:00
 modified:
-categories: 
+
+title: "On Mattering"
+tags: [cuts, exclusions, margins, mattering, ontology]
 excerpt: We measure what we value. We value what we measure.
-tags: [solar ecology, ontology, margins, exclusions, mattering]
-image:
-  feature: 
-  credit: 
-comments: true
-share: true
 ---
 
 # On Mattering: Cycles of Behavior, Standards / Values, Attitudes, and Perceptions

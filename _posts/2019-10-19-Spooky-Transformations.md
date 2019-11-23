@@ -1,12 +1,10 @@
 ---
-layout: post
-title: "Collaborative Transformations: letter from a spooky ghost"
-modified:
-categories: blog
-tags: [BFSC, transformation, feminist, anticolonial]
 date: 2019-10-18T08:00:00-04:00
-comments: true
-share: true
+modified:
+
+title: "Collaborative Transformations: letter from a spooky ghost"
+tags: [BFSC, transformation, feminist, anticolonial]
+excerpt: These new posts are explorations of the small, ordinary affects in the life of a queer scholar who works among STEM and STEAM (Science, Technology, Engineering, (arts), Mathematics) communities.
 ---
 
 Great news Big Fab Solar Collab! I am embracing the me that is many: both my ghostly nature haunting the halls of academia in search of mattering, and my re-discovered realness among the undercommons of the side hustle as a queer/trans/non-binary person engaged among a group of wonderful friends and family (HT Fred Moten and Stefano Harney). 
