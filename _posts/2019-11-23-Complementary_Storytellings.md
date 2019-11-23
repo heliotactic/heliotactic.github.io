@@ -2,12 +2,12 @@
 date: 2019-11-23T10:30:00-05:00
 modified:
 
-title: "Complementary Storytellings of Haunts and Realness"
+title: "Ontology + Hauntology: Complementary Storytellings"
 tags: [homology, hauntology, cuts]
 excerpt: Funky little mechanics tinker away at the apparatus
 ---
 
-# Ontology and Hauntology
+# Ontology + Hauntology: Complementary Storytellings
 
 Funky little mechanics  
 tinker away  
