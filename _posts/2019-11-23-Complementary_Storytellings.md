@@ -8,7 +8,7 @@ excerpt: Funky little mechanics tinker away at the apparatus
 determining superpositions through topological spacetimemattering 
 ---
 
-#Complementary Storytellings of Haunts and Realness
+# Complementary Storytellings of Haunts and Realness
 
 Funky little mechanics  
 tinker away  
