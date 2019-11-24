@@ -2,7 +2,7 @@
 date: 2019-10-18T08:00:00-04:00
 modified:
 
-title: "Attending to Diffractive Cuts"
+title: "Spooky Transformations of Academia"
 tags: [BFSC, transformation, feminist, anticolonial]
 excerpt: Great news Big Fab Solar Collab! I am embracing the me that is many: both my ghostly nature haunting the halls of academia in search of mattering, and my re-discovered realness among the undercommons of the side hustle as a queer/trans/non-binary person engaged among a group of wonderful friends and family (HT Fred Moten and Stefano Harney)
 ---

@@ -1,14 +1,10 @@
 ---
-layout: post
-title: Why "Heliotactic"?
 date: 2016-06-19T09:27:24-04:00
-categories: articles
-description: "An exploration of why this site chooses to follow the sun, and strategize solar tactics."
 modified:
-excerpt: "Just think of the words `light`, `energy`, and `solar`, and you have inherent perceived meanings for each that are currently shifting quickly in today's society of climate changing, wireless communications, and localized electric power systems..."
+
+title: Why "Heliotactic"?
 tags: [heliotactic, heliotropic, solar vernacular, etymology, brownson]
-comments: true
-share: true
+excerpt: "Just think of the words `light`, `energy`, and `solar`, and you have inherent perceived meanings for each that are currently shifting quickly in today's society of climate changing, wireless communications, and localized electric power systems..."
 ---
 
 Let's just get this out of the way: I like words, *a lot*. I like the history of word development, the way that words change over time, the way words are mutable (even mercurial) and not fixed. I embrace the way that words can shape our imaginations, and offer potential for new spaces in our world. I also thoroughly enjoy the act of word crafting, bending words into new spaces. I firmly believe that words are the vehicles to enact change in society, and the viral adoption of some words have changed the way that we see the world that we are a part of. Just think of the words `light`, `energy`, and `solar`, and you have inherent perceived meanings for each that are shifting quickly in today's society of climate changing, wireless communications, and localized electric power systems...
