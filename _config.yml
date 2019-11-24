@@ -33,6 +33,11 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
+disqus:
+  shortname: heliotactic # Disqus shortname, e.g. "my_disqus_shortname"
+twitter:
+  username: heliotactic # site's Twitter username, e.g. "mmistakes
+
 # Liquid
 liquid:
   error_mode: strict
@@ -119,15 +124,14 @@ Author:
   name: Frey Brownson, PhD
   picture: /images/Brownson.jpg
   email: heliotactic@gmail.com
-  disqus-shortname: heliotactic
-  twitter: Heliotactic
+  twitter: heliotactic
   github: Heliotactic
   linkedin: Heliotactic
   instagram: Heliotactic
   links:
     - title:
       url:
-      icon:
+      icon: /images/Brownson.jpg
 
 # Footer Links
 footer_links:
