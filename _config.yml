@@ -32,10 +32,6 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-disqus:
-  shortname: heliotactic
-twitter: 
-  username: Heliotactic
 
 # Liquid
 liquid:
@@ -121,7 +117,7 @@ defaults:
 # Site Author
 Author:
   name: Frey Brownson, PhD
-  picture: 'images/Brownson.jpg'
+  picture: /images/Brownson.jpg
   email: heliotactic@gmail.com
   disqus-shortname: heliotactic
   twitter: Heliotactic
