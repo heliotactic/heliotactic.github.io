@@ -1,13 +1,10 @@
 ---
-layout: post
-title: Solar Ecology and Living Walls
 date: 2016-06-30T10:24:48-04:00
 modified:
-categories: blog
-excerpt: "A quick share for you on solar ecology implemented as design for the built environment from UT-Austin's School of Architecture. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. Here, students and faculty collaborated to implement a vertical living wall."
+
+title: Solar Ecology and Living Walls
 tags: [solar ecology, living wall, architecture]
-comments: true
-share: true
+excerpt: "A quick share for you on solar ecology implemented as design for the built environment from UT-Austin's School of Architecture. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. Here, students and faculty collaborated to implement a vertical living wall."
 ---
 
 A quick share for you on `solar ecology` implemented as design for the built environment from UT-Austin's School of Architecture. It's always worth noting that our buildings that we live and work in are another variant of solar energy conversion systems, and can benefit greatly from inspired design. The students and faculty of the [UT-Austin School of Architecture](http://soa.utexas.edu/) and the [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/) collaborated to implement a vertical "living wall": complete with local plants native to the surrounding ecoregions, and "shelter for anole lizards, hummingbirds, butterflies, and songbirds, among other beneficial fauna." The system creates a cooler microclimate adjoining the building, and can help to defry costs to cool the interior during the hot Austin summers.
