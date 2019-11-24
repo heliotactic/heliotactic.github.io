@@ -120,7 +120,7 @@ defaults:
       share: true
 
 # Site Author
-Author:
+author:
   name: Frey Brownson, PhD
   picture: /images/Brownson.jpg
   email: heliotactic@gmail.com
