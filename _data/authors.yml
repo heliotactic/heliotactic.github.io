@@ -1,12 +1,12 @@
-#heliotactic:
-  # name: Frey Brownson, PhD
-  # picture: /images/Brownson.jpg/
-  # web: https://heliotactic.github.io/
-  # email: heliotactic@gmail.com
-  # bio: "We value what we measure. We measure what we value."
-  # disqus-shortname: heliotactic
-  # twitter: heliotactic
-  # github: Heliotactic
-  # linkedin: Heliotactic
-  # instagram: Heliotactic
+heliotactic:
+  name: Frey Brownson, PhD
+  picture: /images/Brownson.jpg/
+  web: https://heliotactic.github.io/
+  email: heliotactic@gmail.com
+  bio: "We value what we measure. We measure what we value."
+  disqus-shortname: heliotactic
+  twitter: heliotactic
+  github: Heliotactic
+  linkedin: Heliotactic
+  instagram: Heliotactic
   
