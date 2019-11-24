@@ -1,5 +1,5 @@
 ---
-date: 2019-11-01T09:50:50-04:00
+date: 2019-11-01T09:50:50-05:00
 modified:
 
 title: "Attending to Diffractive Cuts"
