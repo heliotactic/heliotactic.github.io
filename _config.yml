@@ -128,10 +128,10 @@ author:
   github: Heliotactic
   linkedin: Heliotactic
   instagram: Heliotactic
-  links:
-    - title:
-      url:
-      icon: /images/Brownson.jpg
+  # links:
+  #   - title:
+  #     url:
+  #     icon: /images/Brownson.jpg
 
 # Footer Links
 footer_links:
