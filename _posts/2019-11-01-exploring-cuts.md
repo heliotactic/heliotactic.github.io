@@ -21,6 +21,6 @@ The "cut" in media (e.g. film an audio) really captures the uses of the word as 
 * **Compositing**entangles the matter of media and generates queer spacetimemattering, new topologies that defy linear time and voids across space. Composite cuts are made immediate in the archive, and at the same cut can be made from media centuries apart.
 * The **Vision Mixer:** (re)configures traces of story among a multitude of media sources and composits video sources together. The process itself is used to create special effects in the archive. Apropos of putting the observer into the system being observed, in most of the world (just not the USA) both the equipment for compositing and the operator/mixer are called a *vision mixer.* So, in praxis, the vision mixer is a quantum superposition of both. 
 
-\\[ VM = a | \mathtt{apparatus} \rangle + b | \mathtt{mixer} \rangle \\]
+\\[ VM = a| apparatus > + b| mixer > \\]
 
 * **Non-Linear Editing (NLE)** systems are phyicsal  workstations and their users who perform collective, aggregation of non-destructive editing on source materials. The cuts from NLE generate new traces as metadata of timestamp, source, length, entry point, exit point, user ID.  These fingerprints adhere to the saved clip as new sedimentations of determinate worlding. 
