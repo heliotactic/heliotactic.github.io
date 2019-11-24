@@ -2,6 +2,7 @@
 date: 2019-11-23T10:30:00-05:00
 modified:
 
+author: heliotactic
 title: "Ontology + Hauntology: Complementary Storytellings"
 tags: [homology, hauntology, cuts]
 excerpt: Funky little mechanics tinker away at the apparatus
