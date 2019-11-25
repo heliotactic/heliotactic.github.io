@@ -2,9 +2,10 @@
 title: "Solar Ecology Matters to the Weeds"
 
 tags:
-  - content
-  - embeds
-  - media
+  - Solar Ecology
+  - animacy
+  - feminist
+  - queer
   - twitter
 ---
 
