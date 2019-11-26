@@ -1,7 +1,7 @@
 ---
 title: "Solar Ecology Matters to the Weeds"
-date: 2019-16-23 10:30:00-0500
-modified:
+<!-- date: 2019-16-23 10:30:00-0500
+modified: -->
 
 tags:
   - Solar Ecology
