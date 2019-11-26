@@ -1,6 +1,14 @@
 ---
 title: Just the FACS
+date: 2019-11-23T10:30:00-05:00
+modified:
+
 tags:
+  - feminist
+  - anticolonial
+  - BFSC
+  - diffractino
+
 excerpt: "(Re)configuring STEM to STEAM through feminist and anticolonial praxis"
 image: 
     path: /images/intro-6.png

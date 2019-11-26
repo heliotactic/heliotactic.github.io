@@ -1,12 +1,8 @@
 ---
 title: "Room of Zoom Zoom"
+date: 2019-10-28T10:30:00-05:00
+modified:
 
-tags:
-  - eolar ecology
-  - entangled engineering
-  - collaborative
-  - queer
-  - insta
 ---
 
 
