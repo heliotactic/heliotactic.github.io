@@ -1,5 +1,7 @@
 ---
 title: DMC calls out Professor Frey
+date: 2019-11-23 10:30:00-0500
+modified:
 
 tags:
   - BFSC
@@ -7,7 +9,7 @@ tags:
   - joy
   - tweet
 
-excerpt: "Our Big Fab Solar Collab is the BEST!!"
+excerpt: "Our Big Fab Solar Collab is the BEST"
 <!-- image: 
     path: /images/Brownson_HeliotacticPress.png -->
 ---

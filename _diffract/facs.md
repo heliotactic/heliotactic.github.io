@@ -1,6 +1,6 @@
 ---
 title: Just the FACS
-date: 2019-11-23T10:30:00-05:00
+date: 2019-11-23 10:30:00-0500
 modified:
 
 tags:

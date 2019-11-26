@@ -1,6 +1,6 @@
 ---
 title: "Room of Zoom Zoom"
-date: 2019-10-28T10:30:00-05:00
+date: 2019-10-28 10:30:00-0500
 modified:
 
 ---
