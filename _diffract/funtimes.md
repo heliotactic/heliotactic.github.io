@@ -9,7 +9,7 @@ tags:
   - joy
   - tweet
 
-excerpt: "Our Big Fab Solar Collab is the BEST!!🤗🌻🦄🌈🌞"
+excerpt: "Our Big Fab Solar Collab is the BEST!!"
 <!-- image: 
     path: /images/Brownson_HeliotacticPress.png -->
 ---
