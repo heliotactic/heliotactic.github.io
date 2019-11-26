@@ -9,6 +9,8 @@ tags:
   - feminist
   - queer
   - twitter
+
+excerpt: "SolarEcology matters to the weeds -- opportunity + animacy in the wasteland. Weeds trace an ecosystem shifting: values, measures, agency growing in the burn zone"
 ---
 
 
