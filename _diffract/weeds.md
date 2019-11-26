@@ -1,5 +1,6 @@
 ---
 title: "Solar Ecology Matters to the Weeds"
+date: 
 
 tags:
   - Solar Ecology
