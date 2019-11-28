@@ -7,6 +7,7 @@ tags: [solar vernacular, technology, energy constraint response]
 excerpt: "Whether we know it or not, solar energy applications are fairly pervasive in society, and essentially break down into simple conversions of solar irradiance to do some kind of work found useful or interesting to society. In looking back across history, technologies and common intergenerational traditions of solar use, called solar vernacular, that have been developing for millennia. These developments in solar adaptation often coincide with a specific fuel constraints, something that we call the energy constraint response."
 image: 
   path: /images/Front_of_The_White_House.jpg
+  thumbnail: /images/Front_of_The_White_House.jpg
   credit: Alex Proimos 
   creditlink: https://www.flickr.com/people/34120957@N04
 ---
