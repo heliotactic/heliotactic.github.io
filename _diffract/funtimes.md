@@ -1,7 +1,7 @@
 ---
 title: DMC calls out Professor Frey
-date: 2019-11-23 10:30:00-0500
-modified:
+<!-- date: 2019-11-23 10:30:00-0500
+modified: -->
 
 tags:
   - BFSC

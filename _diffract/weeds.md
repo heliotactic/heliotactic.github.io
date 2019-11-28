@@ -10,9 +10,10 @@ tags:
   - queer
   - twitter
 
-excerpt: "SolarEcology matters to the weeds -- opportunity + animacy in the wasteland. Weeds trace an ecosystem shifting: values, measures, agency growing in the burn zone"
+excerpt: "Solar Ecology matters to the weeds -- opportunity + animacy in the wasteland. Weeds trace an ecosystem shifting: values, measures, agency growing in the burn zone"
 ---
 
+# Solar Ecology matters to the weeds
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/SolarEcology?src=hash&amp;ref_src=twsrc%5Etfw">#SolarEcology</a> matters to the weeds: opportunity + animacy in the wasteland<br><br>Weeds trace an ecosystem shifting: values, measures, agency growing in the burn zone<a href="https://twitter.com/hashtag/Solar?src=hash&amp;ref_src=twsrc%5Etfw">#Solar</a> revolutionaries will grow: in cracks in concrete, chewing on rock, (re)turning it to powder, to soil, to light <a href="https://t.co/cnEx2c8sv9">pic.twitter.com/cnEx2c8sv9</a></p>&mdash; Frey Brownson, PhD 🌻🏳️‍🌈🌞 (@heliotactic) <a href="https://twitter.com/heliotactic/status/1195757749264617472?ref_src=twsrc%5Etfw">November 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
