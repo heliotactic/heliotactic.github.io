@@ -7,6 +7,7 @@ tags: [heliothermometer, de Saussure, solar, mountaineering, greenhouse effect]
 excerpt: Today is a mash-up of two great contributors to society, each of whom have rested just on the periphery of our common knowledge. Today we look to participants that have helped me to see the shape of the story of solar, each of whom had such an impact on my work and my livelihood in this new space of Solar Ecology.
 image: 
   path: /images/MontBlanc2c.jpg
+  thumbnail: /images/MontBlanc2c.jpg
   credit: Nicolas Sanchez--WikiMedia Commons CC BY-SA 3.0 (User:Sanchezn)
 
 comments: true
