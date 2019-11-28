@@ -20,7 +20,9 @@ image:
 
 My research framework is solar ecology [https://solarecology.psu.edu](solarecology.psu.edu), and it is entangled with settler colonial practices that continue to occur here at my institutions of study and work. I am working with our Solar Collaborative to reconfigure how we proceed in STEAM (Science Technology Engineering Arts Mathematics) from margin to center, as a feminist anti-colonial lab in academia.
 
-I grew up in North Dakota. I benefited from scholarship in North Dakot and in Minnesota and Wisconsin on unceded lands, from the legacies of settler colonialism. I now work in central Pennsylvania, where so many traces of Native American life are both embedded around us, while being excluded from mattering.
+I grew up in North Dakota. I benefited from scholarship in North Dakota, in Minnesota, and in Wisconsin on unceded lands, from the legacies of settler colonialism. I now work in central Pennsylvania, where so many traces of Native American life are both embedded around us while simultaneously being repeated erased and excluded from mattering. 
+
+I am also authoring a new book, about solar ecology and revolutions that light has delivered to us all through time. I cannot proceed without a deeper committment to disruption and my own solar revolution work. The people who will benefit most from a disruption of the stuff we just "do" today are at the heart of my works with the Solar Collaborative. We need disruption, because our performed actions today keep (re)configuring our basic realities and stories of life around us. We keep telling a story that our "people" are separate and past our national stories of colonial extraction, class distractions, our apartheid ontologies, and our sustained abuses of people and the lands we belong to in the name of free market institutions, long gone as jointly intentional group sociopaths.
 
 So far my work has been seeking a point of contact to grow an acknowledgement statement beyond a personal committment to the work. If you know of a person that I should be reaching out to, I would love to hear from you.
 
