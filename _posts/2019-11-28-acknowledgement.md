@@ -25,7 +25,17 @@ So far my work has been seeking a point of contact to grow an acknowledgement st
 
 ## Penn State Land Acknowledgement Draft 
 
-    “I would like to begin by acknowledging the Susquehannock peoples, upon who’s unceded land we are gathered today as the Pennsylvania State University. These lands have shaped my identity and ways of seeing and touching the world around me, and I recognize the sovereignty of the Indigenous peoples as stewards of this land, through times past, present, and into the future. In acknowledging this, I reaffirm my own commitment to the work of dismantling the ongoing legacies of settler colonialism, and the exclusions and erasures of many Indigenous peoples that continues today." 
+>   “I would like to begin by acknowledging the Susquehannock peoples, 
+>   upon who’s unceded land we are gathered today as the Pennsylvania
+>   State University. These lands have shaped my identity and ways of
+>   seeing and touching the world around me, and I recognize the 
+>   sovereignty of the Indigenous peoples as stewards of this land, 
+>   through times past, present, and into the future. 
+>   
+>   In acknowledging this, I reaffirm my own commitment to the work of 
+>   dismantling the ongoing legacies of settler colonialism, and the
+>   exclusions and erasures of many Indigenous peoples that continues
+>   today." 
 
 It is not enough. And it is a commitment to the work. I offer thanks to the lands that support us and great thanks to the communities that have continued to steward and protect our water and lands (and our sunshine) for generations. 
 
@@ -37,7 +47,17 @@ It is not enough. And it is a commitment to the work. I offer thanks to the land
 
 I have found only indications of a Land Acknowledgement being discussed in the UND Student Senate as of late 2019. I offer this acknowledgement in committment to the work that still needs to be done there.
 
-    I acknowledge the Three Affiliated Tribes as the traditional stewards of the unceded lands where I came of age and prospered: the Standing Rock Sioux, the Sisseton-Wahpeton Oyate and the Turtle Mountain Band of Chippewa. These lands have shaped my identity and my ways of engaging the world around me, and I recognize the sovereignty of people of the Three Affiliated Tribes as stewards of this land, through times past, present, and into the future. In acknowledging this, I reaffirm my own commitment to the work of dismantling the ongoing legacies of settler colonialism, and the exclusions and erasures of many Indigenous peoples that continues today.
+>   I would like to begin by acknowledging the Three Affiliated Tribes
+>   as the traditional stewards of the unceded lands where I came of
+>   age and prospered: the Standing Rock Sioux, the Sisseton-Wahpeton
+>   Oyate and the Turtle Mountain Band of Chippewa. These lands have
+>   shaped my identity and my ways of engaging the world around me,
+>   and I recognize the sovereignty of people of the Three Affiliated
+>   Tribes as stewards of this land, through times past, present, and
+>   into the future. In acknowledging this, I reaffirm my own
+>   commitment to the work of dismantling the ongoing legacies of
+>   settler colonialism, and the exclusions and erasures of many
+>   Indigenous peoples that continues today.
 
 ## University of Wisconsin
 
