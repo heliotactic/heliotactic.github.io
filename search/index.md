@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: hompage
 title: "Search"
 date: 
 modified:
@@ -29,3 +29,6 @@ sitemap: false
     <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
   </article></li>
 </script>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyODEyODE4NzZdfQ==
+-->
